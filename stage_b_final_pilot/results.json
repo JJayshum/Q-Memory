@@ -1,0 +1,36 @@
+{
+  "config": {
+    "games": 2,
+    "train_games": 1,
+    "snapshots": 1,
+    "horizon": 2,
+    "rollouts": 1,
+    "max_actions": 6,
+    "seed": 20260818,
+    "out": "/root/autodl-tmp/stage_b_final_pilot"
+  },
+  "environment": "TextWorld 1.7.0",
+  "candidate_mode": "oracle_admissible_actions",
+  "games": 2,
+  "snapshots": 2,
+  "audit": {
+    "reset_match_rate": 1.0,
+    "replay_transition_match_rate": 1.0,
+    "copy_branch_match_rate": 1.0
+  },
+  "coverage": {
+    "mean_actions_per_snapshot": 6,
+    "min_actions": 6
+  },
+  "cost": {
+    "wall_seconds": 50.32928228378296,
+    "cpu_hours": 0.014843069970277779,
+    "gpu_hours": 0.0,
+    "branch_rollouts": 24,
+    "branch_env_steps": 72
+  },
+  "gate": {
+    "replay_pass": true,
+    "enough_labels": true
+  }
+}

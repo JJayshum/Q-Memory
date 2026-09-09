@@ -1,0 +1,33 @@
+# Generated LaTeX and document build products
+*_build/
+latex_build/
+latex_qa/
+docx_qa/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Python caches and local metadata
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated archives and large sweep bundles
+*.zip
+*.tgz
+
+# Local model/checkpoint artifacts
+*.pt
+*.pth
+*.safetensors
+
+# Excluded open-ended-agent experiments (outside the current paper scope)
+ALFWORLD_EXPERIMENT_CONCLUSION.md
+alfworld_*
+qwen*_textworld_*
+qwen_agent_*

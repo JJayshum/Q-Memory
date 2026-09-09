@@ -1,0 +1,166 @@
+{
+  "config": {
+    "labels": "/root/autodl-tmp/stage_b_large/labels.json",
+    "codes": "2,4,8",
+    "seeds": 5,
+    "epochs": 200,
+    "hidden": 48,
+    "lr": 0.002,
+    "balance": 0.05,
+    "out": "/root/autodl-tmp/stage_b_advantage"
+  },
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "runs": [
+    {
+      "codes": 2,
+      "seed": 0,
+      "test_mse": 0.06661286950111389,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.007853742688894272,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 1,
+      "test_mse": 0.060523368418216705,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.0017642416059970856,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 2,
+      "test_mse": 0.05885603651404381,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -9.690970182418823e-05,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 3,
+      "test_mse": 0.05876074731349945,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -1.6205012798309326e-06,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 4,
+      "test_mse": 0.05885922536253929,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.00010009855031967163,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 0,
+      "test_mse": 0.058760691434144974,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -1.564621925354004e-06,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 1,
+      "test_mse": 0.058759674429893494,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -5.476176738739014e-07,
+      "test_n": 137,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 2,
+      "test_mse": 0.058782897889614105,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -2.3771077394485474e-05,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 3,
+      "test_mse": 0.058955736458301544,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.00019660964608192444,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 4,
+      "test_mse": 0.058840710669755936,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -8.158385753631592e-05,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 0,
+      "test_mse": 0.059895217418670654,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.0011360906064510345,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 1,
+      "test_mse": 0.059011779725551605,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.0002526529133319855,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 2,
+      "test_mse": 0.058908697217702866,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.00014957040548324585,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 3,
+      "test_mse": 0.0587606206536293,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -1.4938414096832275e-06,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 4,
+      "test_mse": 0.05886787176132202,
+      "constant_test_mse": 0.05875912681221962,
+      "improvement": -0.00010874494910240173,
+      "test_n": 137,
+      "used_codes": 1,
+      "device": "cuda"
+    }
+  ]
+}

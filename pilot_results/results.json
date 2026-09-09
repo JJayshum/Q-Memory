@@ -1,0 +1,236 @@
+{
+  "config": {
+    "examples": 5000,
+    "seed": 7,
+    "out": "pilot_results"
+  },
+  "test_examples": 1500,
+  "paired_diagnostics": {
+    "pairs": 394,
+    "mean_text_distance": 0.19882023734691287,
+    "mean_q_advantage_distance": 4.0,
+    "action_flip_rate": 1.0
+  },
+  "rate_curve": [
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 0.5213333333333333,
+      "mean_regret": 0.9573333333333334,
+      "q_distortion": 0.9986911640846815,
+      "reconstruction_error": 0.3287760217173619,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 0.524,
+      "mean_regret": 0.952,
+      "q_distortion": 0.9991745016086584,
+      "reconstruction_error": 0.32820490867623275,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 2,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 2,
+      "codes": 4,
+      "action_agreement": 0.5213333333333333,
+      "mean_regret": 0.9573333333333334,
+      "q_distortion": 0.9986943393828439,
+      "reconstruction_error": 0.32829156487378547,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 2,
+      "codes": 4,
+      "action_agreement": 0.504,
+      "mean_regret": 0.992,
+      "q_distortion": 0.9996439385899896,
+      "reconstruction_error": 0.3291235849460106,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 3,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 3,
+      "codes": 8,
+      "action_agreement": 0.502,
+      "mean_regret": 0.996,
+      "q_distortion": 0.999125024382166,
+      "reconstruction_error": 0.32682213798866494,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 3,
+      "codes": 8,
+      "action_agreement": 0.48933333333333334,
+      "mean_regret": 1.0213333333333334,
+      "q_distortion": 1.0010940924989888,
+      "reconstruction_error": 0.32960293472612506,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 4,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 4,
+      "codes": 16,
+      "action_agreement": 0.48933333333333334,
+      "mean_regret": 1.0213333333333334,
+      "q_distortion": 1.0010367309425934,
+      "reconstruction_error": 0.3233592967895335,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 4,
+      "codes": 16,
+      "action_agreement": 0.49866666666666665,
+      "mean_regret": 1.0026666666666666,
+      "q_distortion": 0.9993451224105879,
+      "reconstruction_error": 0.3296776448031802,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 5,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 5,
+      "codes": 32,
+      "action_agreement": 0.506,
+      "mean_regret": 0.988,
+      "q_distortion": 1.0005234667792324,
+      "reconstruction_error": 0.317987630952337,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 5,
+      "codes": 32,
+      "action_agreement": 0.492,
+      "mean_regret": 1.016,
+      "q_distortion": 1.0018178769527375,
+      "reconstruction_error": 0.3297750963306461,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 6,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 6,
+      "codes": 64,
+      "action_agreement": 0.504,
+      "mean_regret": 0.992,
+      "q_distortion": 0.9954098006570639,
+      "reconstruction_error": 0.3095125436017607,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 6,
+      "codes": 64,
+      "action_agreement": 0.49733333333333335,
+      "mean_regret": 1.0053333333333334,
+      "q_distortion": 0.9990155030022457,
+      "reconstruction_error": 0.32983039069509323,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 7,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 7,
+      "codes": 128,
+      "action_agreement": 0.5113333333333333,
+      "mean_regret": 0.9773333333333334,
+      "q_distortion": 0.9938666497113932,
+      "reconstruction_error": 0.30088623505050355,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 7,
+      "codes": 128,
+      "action_agreement": 0.504,
+      "mean_regret": 0.992,
+      "q_distortion": 0.9948108143317667,
+      "reconstruction_error": 0.3319715459934756,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 8,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32966979263586615,
+      "method": "q_memory"
+    },
+    {
+      "bits": 8,
+      "codes": 256,
+      "action_agreement": 0.5166666666666667,
+      "mean_regret": 0.9666666666666667,
+      "q_distortion": 0.9944765821447331,
+      "reconstruction_error": 0.29259075064803935,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 8,
+      "codes": 256,
+      "action_agreement": 0.518,
+      "mean_regret": 0.964,
+      "q_distortion": 0.9945843546567749,
+      "reconstruction_error": 0.3364987446259059,
+      "method": "sliding_window"
+    }
+  ],
+  "checks": {
+    "q_memory_one_bit_exact": true,
+    "q_better_than_reconstruction": true
+  }
+}

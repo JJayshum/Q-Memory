@@ -1,0 +1,36 @@
+{
+  "start_seed": 900000,
+  "episodes": 500,
+  "environments": {
+    "MiniGrid-MemoryS13Random-v0": {
+      "expert_successes": 500,
+      "cue_counts": {
+        "1": 246,
+        "2": 254
+      },
+      "mean_expert_steps": 15.874,
+      "min_expert_steps": 10,
+      "max_expert_steps": 25
+    },
+    "MiniGrid-MemoryS11-v0": {
+      "expert_successes": 500,
+      "cue_counts": {
+        "1": 262,
+        "2": 238
+      },
+      "mean_expert_steps": 17.442,
+      "min_expert_steps": 14,
+      "max_expert_steps": 21
+    },
+    "MiniGrid-MemoryS17Random-v0": {
+      "expert_successes": 500,
+      "cue_counts": {
+        "1": 246,
+        "2": 254
+      },
+      "mean_expert_steps": 18.828,
+      "min_expert_steps": 10,
+      "max_expert_steps": 33
+    }
+  }
+}

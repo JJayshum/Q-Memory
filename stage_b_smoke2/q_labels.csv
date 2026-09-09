@@ -1,0 +1,43 @@
+game,seed,t,policy,action,mean,std,ci95,n,advantage
+game_20260818.z8,20260818,0,lexicographic,examine table,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,lexicographic,go north,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,lexicographic,inventory,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,lexicographic,look,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,random_uniform,examine table,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,random_uniform,go north,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,random_uniform,inventory,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,0,random_uniform,look,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,lexicographic,examine table,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,lexicographic,go north,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,lexicographic,inventory,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,lexicographic,look,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,random_uniform,examine table,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,random_uniform,go north,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,random_uniform,inventory,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,1,random_uniform,look,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,lexicographic,examine table,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,lexicographic,go north,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,lexicographic,inventory,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,lexicographic,look,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,random_uniform,examine table,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,random_uniform,go north,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,random_uniform,inventory,0.0,0.0,0.0,2,0.0
+game_20260818.z8,20260818,2,random_uniform,look,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,0,lexicographic,go east,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,0,lexicographic,inventory,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,0,lexicographic,look,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,0,random_uniform,go east,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,0,random_uniform,inventory,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,0,random_uniform,look,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,1,lexicographic,go east,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,1,lexicographic,inventory,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,1,lexicographic,look,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,1,random_uniform,go east,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,1,random_uniform,inventory,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,1,random_uniform,look,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,2,lexicographic,go east,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,2,lexicographic,inventory,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,2,lexicographic,look,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,2,random_uniform,go east,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,2,random_uniform,inventory,0.0,0.0,0.0,2,0.0
+game_20260819.z8,20260819,2,random_uniform,look,0.0,0.0,0.0,2,0.0

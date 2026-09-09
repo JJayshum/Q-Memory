@@ -1,0 +1,240 @@
+{
+  "config": {
+    "train": 6000,
+    "test": 2000,
+    "codes": "1,2,4,8",
+    "seeds": 5,
+    "epochs": 150,
+    "hidden": 48,
+    "lr": 0.002,
+    "balance": 0.05,
+    "out": "/root/autodl-tmp/ambiguous_memory_results"
+  },
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "rows": [
+    {
+      "codes": 1,
+      "seed": 0,
+      "accuracy": 0.5080000162124634,
+      "used_codes": 1,
+      "probe": {
+        "0": 0.5080000162124634
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 1,
+      "accuracy": 0.4985000193119049,
+      "used_codes": 1,
+      "probe": {
+        "0": 0.5015000104904175
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 2,
+      "accuracy": 0.5024999976158142,
+      "used_codes": 1,
+      "probe": {
+        "0": 0.4975000321865082
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 3,
+      "accuracy": 0.49550002813339233,
+      "used_codes": 1,
+      "probe": {
+        "0": 0.49550002813339233
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 4,
+      "accuracy": 0.5005000233650208,
+      "used_codes": 1,
+      "probe": {
+        "0": 0.499500036239624
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 0,
+      "accuracy": 1.0,
+      "used_codes": 2,
+      "probe": {
+        "0": 1.0,
+        "1": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 1,
+      "accuracy": 1.0,
+      "used_codes": 2,
+      "probe": {
+        "0": 0.0,
+        "1": 1.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 2,
+      "accuracy": 1.0,
+      "used_codes": 2,
+      "probe": {
+        "0": 0.0,
+        "1": 1.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 3,
+      "accuracy": 1.0,
+      "used_codes": 2,
+      "probe": {
+        "0": 1.0,
+        "1": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 4,
+      "accuracy": 1.0,
+      "used_codes": 2,
+      "probe": {
+        "0": 1.0,
+        "1": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 0,
+      "accuracy": 1.0,
+      "used_codes": 2,
+      "probe": {
+        "0": 1.0,
+        "3": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 1,
+      "accuracy": 1.0,
+      "used_codes": 3,
+      "probe": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 2,
+      "accuracy": 1.0,
+      "used_codes": 4,
+      "probe": {
+        "0": 0.0,
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 3,
+      "accuracy": 1.0,
+      "used_codes": 3,
+      "probe": {
+        "0": 1.0,
+        "2": 0.0,
+        "3": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 4,
+      "accuracy": 0.9985000491142273,
+      "used_codes": 2,
+      "probe": {
+        "0": 0.0,
+        "1": 1.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 0,
+      "accuracy": 1.0,
+      "used_codes": 3,
+      "probe": {
+        "2": 0.0,
+        "4": 1.0,
+        "7": 0.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 1,
+      "accuracy": 0.999000072479248,
+      "used_codes": 3,
+      "probe": {
+        "0": 0.0,
+        "4": 1.0,
+        "6": 0.9999999403953552
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 2,
+      "accuracy": 1.0,
+      "used_codes": 3,
+      "probe": {
+        "0": 0.0,
+        "5": 0.0,
+        "6": 1.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 3,
+      "accuracy": 0.999500036239624,
+      "used_codes": 3,
+      "probe": {
+        "1": 0.0,
+        "4": 1.0,
+        "7": 1.0
+      },
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 4,
+      "accuracy": 0.999500036239624,
+      "used_codes": 2,
+      "probe": {
+        "2": 1.0,
+        "3": 0.0
+      },
+      "device": "cuda"
+    }
+  ]
+}

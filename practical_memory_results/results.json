@@ -1,0 +1,161 @@
+{
+  "config": {
+    "train": 6000,
+    "test": 2000,
+    "codes": "1,2,4,8",
+    "seeds": 5,
+    "epochs": 150,
+    "hidden": 64,
+    "lr": 0.002,
+    "balance": 0.05,
+    "out": "/root/autodl-tmp/practical_memory_results"
+  },
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "baselines": {
+    "action_only": 0.5,
+    "random": 0.5
+  },
+  "rows": [
+    {
+      "codes": 1,
+      "seed": 0,
+      "accuracy": 0.4935000240802765,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 1,
+      "accuracy": 0.5035000443458557,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 2,
+      "accuracy": 0.49550002813339233,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 3,
+      "accuracy": 0.5080000162124634,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 1,
+      "seed": 4,
+      "accuracy": 0.5005000233650208,
+      "used_codes": 1,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 0,
+      "accuracy": 0.5530000329017639,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 1,
+      "accuracy": 0.5330000519752502,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 2,
+      "accuracy": 0.5550000071525574,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 3,
+      "accuracy": 0.5380000472068787,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 4,
+      "accuracy": 0.5575000047683716,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 0,
+      "accuracy": 0.5475000143051147,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 1,
+      "accuracy": 0.5490000247955322,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 2,
+      "accuracy": 0.5485000014305115,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 3,
+      "accuracy": 0.5400000214576721,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 4,
+      "accuracy": 0.5385000109672546,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 0,
+      "accuracy": 0.546500027179718,
+      "used_codes": 8,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 1,
+      "accuracy": 0.5355000495910645,
+      "used_codes": 8,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 2,
+      "accuracy": 0.5410000085830688,
+      "used_codes": 8,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 3,
+      "accuracy": 0.5440000295639038,
+      "used_codes": 8,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 4,
+      "accuracy": 0.534500002861023,
+      "used_codes": 8,
+      "device": "cuda"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "config": {
+    "train": 6000,
+    "test": 2000,
+    "codes": "2",
+    "seeds": 5,
+    "epochs": 150,
+    "hidden": 64,
+    "lr": 0.002,
+    "balance": 0.05,
+    "soft_train": false,
+    "direct_code": true,
+    "in_distribution": false,
+    "out": "/root/autodl-tmp/practical_memory_direct"
+  },
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "baselines": {
+    "action_only": 0.5,
+    "random": 0.5
+  },
+  "rows": [
+    {
+      "codes": 2,
+      "seed": 0,
+      "accuracy": 0.49550002813339233,
+      "train_accuracy": 0.5393333435058594,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 1,
+      "accuracy": 0.5110000371932983,
+      "train_accuracy": 0.5258333086967468,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 2,
+      "accuracy": 0.5164999961853027,
+      "train_accuracy": 0.5291666388511658,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 3,
+      "accuracy": 0.5250000357627869,
+      "train_accuracy": 0.5191666483879089,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 4,
+      "accuracy": 1.0,
+      "train_accuracy": 1.0,
+      "used_codes": 2,
+      "device": "cuda"
+    }
+  ]
+}

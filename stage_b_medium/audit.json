@@ -1,0 +1,122 @@
+[
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260820.z8",
+    "seed": 20260820,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260821.z8",
+    "seed": 20260821,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260822.z8",
+    "seed": 20260822,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260823.z8",
+    "seed": 20260823,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260824.z8",
+    "seed": 20260824,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 8,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 4
+  },
+  {
+    "game": "game_20260825.z8",
+    "seed": 20260825,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260826.z8",
+    "seed": 20260826,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260827.z8",
+    "seed": 20260827,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  },
+  {
+    "game": "game_20260828.z8",
+    "seed": 20260828,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 9,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 4
+  },
+  {
+    "game": "game_20260829.z8",
+    "seed": 20260829,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  }
+]

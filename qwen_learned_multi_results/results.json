@@ -1,0 +1,1511 @@
+{
+  "episodes": 150,
+  "accuracy": {
+    "full": 1.0,
+    "truncated": 0.4533333333333333,
+    "learned": 1.0
+  },
+  "rows": [
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 0,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 1,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "left",
+      "predicted_memory": "left",
+      "correct": {
+        "full": true,
+        "truncated": false,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    },
+    {
+      "memory_seed": 2,
+      "truth": "right",
+      "predicted_memory": "right",
+      "correct": {
+        "full": true,
+        "truncated": true,
+        "learned": true
+      }
+    }
+  ],
+  "seconds": 37.794196367263794
+}

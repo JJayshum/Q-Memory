@@ -1,0 +1,13 @@
+game,seed,t,policy,action,mean,std,ci95,n,advantage
+game_20260818.z8,20260818,0,oracle_success,examine chest,0.0,0.0,0.0,1,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,go east,1.0,0.0,0.0,1,0.8333333333333334
+game_20260818.z8,20260818,0,oracle_success,go south,0.0,0.0,0.0,1,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,inventory,0.0,0.0,0.0,1,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,look,0.0,0.0,0.0,1,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,open chest,0.0,0.0,0.0,1,-0.16666666666666666
+game_20260818.z8,20260818,0,random_uniform,examine chest,0.0,0.0,0.0,1,0.0
+game_20260818.z8,20260818,0,random_uniform,go east,0.0,0.0,0.0,1,0.0
+game_20260818.z8,20260818,0,random_uniform,go south,0.0,0.0,0.0,1,0.0
+game_20260818.z8,20260818,0,random_uniform,inventory,0.0,0.0,0.0,1,0.0
+game_20260818.z8,20260818,0,random_uniform,look,0.0,0.0,0.0,1,0.0
+game_20260818.z8,20260818,0,random_uniform,open chest,0.0,0.0,0.0,1,0.0

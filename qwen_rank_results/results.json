@@ -1,0 +1,250 @@
+{
+  "episodes": 20,
+  "accuracy": {
+    "full": 0.15,
+    "truncated": 0.3
+  },
+  "rows": [
+    {
+      "game": 0,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 0,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 1,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 1,
+      "mode": "truncated",
+      "won": true,
+      "steps": 7
+    },
+    {
+      "game": 2,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 2,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 3,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 3,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 4,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 4,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 5,
+      "mode": "full",
+      "won": true,
+      "steps": 3
+    },
+    {
+      "game": 5,
+      "mode": "truncated",
+      "won": true,
+      "steps": 3
+    },
+    {
+      "game": 6,
+      "mode": "full",
+      "won": true,
+      "steps": 8
+    },
+    {
+      "game": 6,
+      "mode": "truncated",
+      "won": true,
+      "steps": 4
+    },
+    {
+      "game": 7,
+      "mode": "full",
+      "won": true,
+      "steps": 7
+    },
+    {
+      "game": 7,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 8,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 8,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 9,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 9,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 10,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 10,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 11,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 11,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 12,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 12,
+      "mode": "truncated",
+      "won": true,
+      "steps": 2
+    },
+    {
+      "game": 13,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 13,
+      "mode": "truncated",
+      "won": true,
+      "steps": 7
+    },
+    {
+      "game": 14,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 14,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 15,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 15,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 16,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 16,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 17,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 17,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 18,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 18,
+      "mode": "truncated",
+      "won": true,
+      "steps": 5
+    },
+    {
+      "game": 19,
+      "mode": "full",
+      "won": false,
+      "steps": 8
+    },
+    {
+      "game": 19,
+      "mode": "truncated",
+      "won": false,
+      "steps": 8
+    }
+  ],
+  "seconds": 72.4068353176117
+}

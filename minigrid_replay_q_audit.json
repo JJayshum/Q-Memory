@@ -1,0 +1,12 @@
+{
+  "environment": "MiniGrid-MemoryS13Random-v0",
+  "start_seed": 100000,
+  "episodes": 2000,
+  "agreements": 2000,
+  "agreement_rate": 1.0,
+  "replay_class_counts": {
+    "1": 1002,
+    "2": 998
+  },
+  "mismatches": []
+}

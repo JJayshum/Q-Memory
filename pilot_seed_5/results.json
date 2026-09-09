@@ -1,0 +1,236 @@
+{
+  "config": {
+    "examples": 5000,
+    "seed": 5,
+    "out": "pilot_seed_5"
+  },
+  "test_examples": 1500,
+  "paired_diagnostics": {
+    "pairs": 382,
+    "mean_text_distance": 0.19611621191311193,
+    "mean_q_advantage_distance": 4.0,
+    "action_flip_rate": 1.0
+  },
+  "rate_curve": [
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 0.496,
+      "mean_regret": 1.008,
+      "q_distortion": 0.9999535855720301,
+      "reconstruction_error": 0.32837031871148364,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 0.496,
+      "mean_regret": 1.008,
+      "q_distortion": 0.9999792488143263,
+      "reconstruction_error": 0.3277666669167242,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 2,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 2,
+      "codes": 4,
+      "action_agreement": 0.5133333333333333,
+      "mean_regret": 0.9733333333333334,
+      "q_distortion": 0.9997566699923306,
+      "reconstruction_error": 0.3276387152822667,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 2,
+      "codes": 4,
+      "action_agreement": 0.5106666666666667,
+      "mean_regret": 0.9786666666666667,
+      "q_distortion": 0.9986665132209931,
+      "reconstruction_error": 0.32857092386287345,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 3,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 3,
+      "codes": 8,
+      "action_agreement": 0.494,
+      "mean_regret": 1.012,
+      "q_distortion": 1.0003780693204323,
+      "reconstruction_error": 0.3262174905353591,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 3,
+      "codes": 8,
+      "action_agreement": 0.5026666666666667,
+      "mean_regret": 0.9946666666666667,
+      "q_distortion": 0.9998241454488387,
+      "reconstruction_error": 0.3285924798894671,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 4,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 4,
+      "codes": 16,
+      "action_agreement": 0.49533333333333335,
+      "mean_regret": 1.0093333333333334,
+      "q_distortion": 1.0006224561725368,
+      "reconstruction_error": 0.321354643738623,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 4,
+      "codes": 16,
+      "action_agreement": 0.5013333333333333,
+      "mean_regret": 0.9973333333333333,
+      "q_distortion": 0.9991435492408438,
+      "reconstruction_error": 0.32912656199683427,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 5,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 5,
+      "codes": 32,
+      "action_agreement": 0.49333333333333335,
+      "mean_regret": 1.0133333333333334,
+      "q_distortion": 1.0010104356228284,
+      "reconstruction_error": 0.3143270633487879,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 5,
+      "codes": 32,
+      "action_agreement": 0.48933333333333334,
+      "mean_regret": 1.0213333333333334,
+      "q_distortion": 1.0022921354851257,
+      "reconstruction_error": 0.32894190665460643,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 6,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 6,
+      "codes": 64,
+      "action_agreement": 0.488,
+      "mean_regret": 1.024,
+      "q_distortion": 1.002853862822307,
+      "reconstruction_error": 0.3095909277525048,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 6,
+      "codes": 64,
+      "action_agreement": 0.498,
+      "mean_regret": 1.004,
+      "q_distortion": 0.9997619103902576,
+      "reconstruction_error": 0.3279400388648525,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 7,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 7,
+      "codes": 128,
+      "action_agreement": 0.47933333333333333,
+      "mean_regret": 1.0413333333333334,
+      "q_distortion": 1.0056591038562859,
+      "reconstruction_error": 0.3043636858355231,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 7,
+      "codes": 128,
+      "action_agreement": 0.49466666666666664,
+      "mean_regret": 1.0106666666666666,
+      "q_distortion": 1.0056078929731658,
+      "reconstruction_error": 0.3313074622697169,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 8,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.32895037426692236,
+      "method": "q_memory"
+    },
+    {
+      "bits": 8,
+      "codes": 256,
+      "action_agreement": 0.49466666666666664,
+      "mean_regret": 1.0106666666666666,
+      "q_distortion": 1.0052204711611605,
+      "reconstruction_error": 0.2956811099526642,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 8,
+      "codes": 256,
+      "action_agreement": 0.49666666666666665,
+      "mean_regret": 1.0066666666666666,
+      "q_distortion": 1.0017721590977884,
+      "reconstruction_error": 0.3338978742309467,
+      "method": "sliding_window"
+    }
+  ],
+  "checks": {
+    "q_memory_one_bit_exact": true,
+    "q_better_than_reconstruction": true
+  }
+}

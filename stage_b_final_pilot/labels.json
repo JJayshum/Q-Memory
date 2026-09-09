@@ -1,0 +1,210 @@
+[
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 0,
+    "observation": "-= Closet =-\nYou find yourself in a closet. An ordinary one. You decide to start listing off everything you see in the room, as if you were in a text adventure.\n\nYou see a closed chest nearby.\n\nYou need an unguarded exit? You should try going east. You don't like doors? Why not try going south, that entranceway is unblocked.",
+    "actions": [
+      "examine chest",
+      "go east",
+      "go south",
+      "inventory",
+      "look",
+      "open chest"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": -0.16666666666666666
+        },
+        "go east": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.8333333333333334
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": -0.16666666666666666
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": -0.16666666666666666
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": -0.16666666666666666
+        },
+        "open chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": -0.16666666666666666
+        }
+      },
+      "random_uniform": {
+        "examine chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "open chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        }
+      }
+    }
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 0,
+    "observation": "-= Kitchen =-\nAh, the kitchen. This is some kind of kitchen, really great standard vibes in this place, a wonderful standard atmosphere. And now, well, you're in it. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building.\n\nYou see a locked box in the room. You can see a fridge. The fridge contains a latchkey.\n\nYou need an unguarded exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unguarded.",
+    "actions": [
+      "close fridge",
+      "examine box",
+      "examine fridge",
+      "examine latchkey",
+      "go north",
+      "go west"
+    ],
+    "q": {
+      "oracle_success": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 1,
+          "advantage": 0.0
+        }
+      }
+    }
+  }
+]

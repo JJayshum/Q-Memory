@@ -1,0 +1,119 @@
+{
+  "config": {
+    "train": 6000,
+    "test": 2000,
+    "seeds": 5,
+    "epochs": 300,
+    "hidden": 64,
+    "lr": 0.002,
+    "out": "/root/autodl-tmp/attention_memory_compare"
+  },
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "rows": [
+    {
+      "objective": "q",
+      "seed": 0,
+      "train_accuracy": 1.0,
+      "accuracy": 0.9235000610351562,
+      "device": "cuda"
+    },
+    {
+      "objective": "q",
+      "seed": 1,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "objective": "q",
+      "seed": 2,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "objective": "q",
+      "seed": 3,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "objective": "q",
+      "seed": 4,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "objective": "reconstruction",
+      "seed": 0,
+      "train_accuracy": 0.5034999847412109,
+      "accuracy": 0.4935000240802765,
+      "device": "cuda"
+    },
+    {
+      "objective": "reconstruction",
+      "seed": 1,
+      "train_accuracy": 0.4919999837875366,
+      "accuracy": 0.49800002574920654,
+      "device": "cuda"
+    },
+    {
+      "objective": "reconstruction",
+      "seed": 2,
+      "train_accuracy": 0.5618333220481873,
+      "accuracy": 0.5755000114440918,
+      "device": "cuda"
+    },
+    {
+      "objective": "reconstruction",
+      "seed": 3,
+      "train_accuracy": 0.5090000033378601,
+      "accuracy": 0.49900001287460327,
+      "device": "cuda"
+    },
+    {
+      "objective": "reconstruction",
+      "seed": 4,
+      "train_accuracy": 0.49016666412353516,
+      "accuracy": 0.4895000159740448,
+      "device": "cuda"
+    },
+    {
+      "objective": "reward",
+      "seed": 0,
+      "train_accuracy": 0.4898333251476288,
+      "accuracy": 0.4310000240802765,
+      "device": "cuda"
+    },
+    {
+      "objective": "reward",
+      "seed": 1,
+      "train_accuracy": 0.45366665720939636,
+      "accuracy": 0.3995000123977661,
+      "device": "cuda"
+    },
+    {
+      "objective": "reward",
+      "seed": 2,
+      "train_accuracy": 0.1614999920129776,
+      "accuracy": 0.16250000894069672,
+      "device": "cuda"
+    },
+    {
+      "objective": "reward",
+      "seed": 3,
+      "train_accuracy": 0.47583332657814026,
+      "accuracy": 0.49000000953674316,
+      "device": "cuda"
+    },
+    {
+      "objective": "reward",
+      "seed": 4,
+      "train_accuracy": 0.027833333238959312,
+      "accuracy": 0.007500000298023224,
+      "device": "cuda"
+    }
+  ]
+}

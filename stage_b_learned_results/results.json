@@ -1,0 +1,106 @@
+{
+  "config": {
+    "labels": "/root/autodl-tmp/stage_b_medium2/labels.json",
+    "codes": "2,4,8",
+    "seeds": 3,
+    "epochs": 150,
+    "hidden": 48,
+    "lr": 0.002,
+    "balance": 0.05,
+    "out": "/root/autodl-tmp/stage_b_learned_results"
+  },
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "runs": [
+    {
+      "codes": 2,
+      "seed": 0,
+      "test_mse": 0.10380121320486069,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": -0.019816100597381592,
+      "test_n": 68,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 1,
+      "test_mse": 0.08363249897956848,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": 0.000352613627910614,
+      "test_n": 68,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 2,
+      "seed": 2,
+      "test_mse": 0.09132760763168335,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": -0.007342495024204254,
+      "test_n": 68,
+      "used_codes": 2,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 0,
+      "test_mse": 0.08526618033647537,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": -0.0012810677289962769,
+      "test_n": 68,
+      "used_codes": 3,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 1,
+      "test_mse": 0.08201708644628525,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": 0.0019680261611938477,
+      "test_n": 68,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 4,
+      "seed": 2,
+      "test_mse": 0.08479183167219162,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": -0.0008067190647125244,
+      "test_n": 68,
+      "used_codes": 4,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 0,
+      "test_mse": 0.08345796167850494,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": 0.0005271509289741516,
+      "test_n": 68,
+      "used_codes": 5,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 1,
+      "test_mse": 0.0867001861333847,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": -0.002715073525905609,
+      "test_n": 68,
+      "used_codes": 6,
+      "device": "cuda"
+    },
+    {
+      "codes": 8,
+      "seed": 2,
+      "test_mse": 0.0805186778306961,
+      "constant_test_mse": 0.0839851126074791,
+      "improvement": 0.0034664347767829895,
+      "test_n": 68,
+      "used_codes": 6,
+      "device": "cuda"
+    }
+  ]
+}

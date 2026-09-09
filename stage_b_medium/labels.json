@@ -1,0 +1,3602 @@
+[
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 0,
+    "observation": "-= Closet =-\nYou find yourself in a closet. An ordinary one. You decide to start listing off everything you see in the room, as if you were in a text adventure.\n\nYou see a closed chest nearby.\n\nYou need an unguarded exit? You should try going east. You don't like doors? Why not try going south, that entranceway is unblocked.",
+    "actions": [
+      "examine chest",
+      "go east",
+      "go south",
+      "inventory",
+      "look",
+      "open chest"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "go east": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.8333333333333334
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "open chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        }
+      },
+      "random_uniform": {
+        "examine chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "open chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 1,
+    "observation": "-= Closet =-\nYou find yourself in a closet. An ordinary one. You decide to start listing off everything you see in the room, as if you were in a text adventure.\n\nYou see a closed chest nearby.\n\nYou need an unguarded exit? You should try going east. You don't like doors? Why not try going south, that entranceway is unblocked.",
+    "actions": [
+      "examine chest",
+      "go east",
+      "go south",
+      "inventory",
+      "look",
+      "open chest"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "open chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "open chest": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 2,
+    "observation": "-= Shower =-\nYou're now in a shower. You decide to start listing off everything you see in the room, as if you were in a text adventure.\n\nYou make out a shelf. The shelf is normal. On the shelf you can see a candy bar and a shirt.\n\nYou don't like doors? Why not try going west, that entranceway is unguarded.",
+    "actions": [
+      "examine candy bar",
+      "examine shelf",
+      "examine shirt",
+      "go west",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine candy bar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine shelf": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine shirt": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine candy bar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine shelf": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine shirt": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 0,
+    "observation": "-= Kitchen =-\nAh, the kitchen. This is some kind of kitchen, really great standard vibes in this place, a wonderful standard atmosphere. And now, well, you're in it. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building.\n\nYou see a locked box in the room. You can see a fridge. The fridge contains a latchkey.\n\nYou need an unguarded exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unguarded.",
+    "actions": [
+      "close fridge",
+      "examine box",
+      "examine fridge",
+      "examine latchkey",
+      "go north",
+      "go west"
+    ],
+    "q": {
+      "oracle_success": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 1,
+    "observation": "-= Kitchen =-\nAh, the kitchen. This is some kind of kitchen, really great standard vibes in this place, a wonderful standard atmosphere. And now, well, you're in it. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building.\n\nYou see a locked box in the room. You can see a fridge. The fridge contains a latchkey.\n\nYou need an unguarded exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unguarded.",
+    "actions": [
+      "close fridge",
+      "examine box",
+      "examine fridge",
+      "examine latchkey",
+      "go north",
+      "go west"
+    ],
+    "q": {
+      "oracle_success": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 2,
+    "observation": "-= Kitchen =-\nAh, the kitchen. This is some kind of kitchen, really great standard vibes in this place, a wonderful standard atmosphere. And now, well, you're in it. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building.\n\nYou see a locked box in the room. You can see a fridge. The fridge contains a latchkey.\n\nYou need an unguarded exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unguarded.",
+    "actions": [
+      "close fridge",
+      "examine box",
+      "examine fridge",
+      "examine latchkey",
+      "go north",
+      "go west"
+    ],
+    "q": {
+      "oracle_success": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "close fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine box": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fridge": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine latchkey": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260820.z8",
+    "seed": 20260820,
+    "t": 0,
+    "observation": "-= Kitchen =-\nYou've entered a kitchen.\n\nYou make out a closed locker. You scan the room, seeing a non-euclidean locker.\n\nYou need an unguarded exit? You should try going west.",
+    "actions": [
+      "examine locker",
+      "examine non-euclidean locker",
+      "go west",
+      "inventory",
+      "look",
+      "open locker"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine locker": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine non-euclidean locker": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "open locker": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine locker": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine non-euclidean locker": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "open locker": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260820.z8",
+    "seed": 20260820,
+    "t": 1,
+    "observation": "-= Spare Room =-\nGuess what, you are in the place we're calling the spare room.\n\n\n\nYou need an unblocked exit? You should try going east. You don't like doors? Why not try going south, that entranceway is unguarded.",
+    "actions": [
+      "go east",
+      "go south",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260820.z8",
+    "seed": 20260820,
+    "t": 2,
+    "observation": "-= Kitchenette =-\nYou are in a kitchenette. An ordinary kind of place. You begin looking for stuff.\n\n\n\nThere is an unblocked exit to the north.\n\nThere is a napkin on the floor.",
+    "actions": [
+      "examine napkin",
+      "go north",
+      "inventory",
+      "look",
+      "take napkin"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine napkin": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take napkin": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine napkin": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take napkin": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260821.z8",
+    "seed": 20260821,
+    "t": 0,
+    "observation": "-= Studio =-\nYou find yourself in a studio. A normal kind of place. You begin to take stock of what's here.\n\nYou make out a closed safe nearby.\n\nYou don't like doors? Why not try going north, that entranceway is unguarded.",
+    "actions": [
+      "drop fondue",
+      "drop tv",
+      "eat fondue",
+      "examine fondue",
+      "examine safe",
+      "examine tv"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine safe": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine safe": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260821.z8",
+    "seed": 20260821,
+    "t": 1,
+    "observation": "-= Studio =-\nYou find yourself in a studio. A normal kind of place. You begin to take stock of what's here.\n\nYou make out a closed safe nearby.\n\nYou don't like doors? Why not try going north, that entranceway is unguarded.",
+    "actions": [
+      "drop fondue",
+      "drop tv",
+      "eat fondue",
+      "examine fondue",
+      "examine safe",
+      "examine tv"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine safe": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine safe": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260821.z8",
+    "seed": 20260821,
+    "t": 2,
+    "observation": "-= Studio =-\nYou find yourself in a studio. A normal kind of place. You begin to take stock of what's here.\n\nYou make out a closed safe nearby.\n\nYou don't like doors? Why not try going north, that entranceway is unguarded.",
+    "actions": [
+      "drop fondue",
+      "drop tv",
+      "eat fondue",
+      "examine fondue",
+      "examine safe",
+      "examine tv"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine safe": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine fondue": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine safe": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine tv": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260822.z8",
+    "seed": 20260822,
+    "t": 0,
+    "observation": "-= Parlor =-\nYou've entered a parlor.\n\n\n\nYou don't like doors? Why not try going south, that entranceway is unblocked.\n\nThere is a bug on the floor.",
+    "actions": [
+      "drop Comic Strip Calendar",
+      "drop pair of pants",
+      "examine Comic Strip Calendar",
+      "examine bug",
+      "examine pair of pants",
+      "go south"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine bug": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine bug": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260822.z8",
+    "seed": 20260822,
+    "t": 1,
+    "observation": "-= Parlor =-\nYou've entered a parlor.\n\n\n\nYou don't like doors? Why not try going south, that entranceway is unblocked.\n\nThere is a bug on the floor.",
+    "actions": [
+      "drop Comic Strip Calendar",
+      "drop pair of pants",
+      "examine Comic Strip Calendar",
+      "examine bug",
+      "examine pair of pants",
+      "go south"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine bug": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine bug": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260822.z8",
+    "seed": 20260822,
+    "t": 2,
+    "observation": "-= Cubicle =-\nYou're now in a cubicle. You begin to take stock of what's here.\n\n\n\nYou need an unguarded exit? You should try going north. There is an unguarded exit to the west.",
+    "actions": [
+      "drop Comic Strip Calendar",
+      "drop pair of pants",
+      "examine Comic Strip Calendar",
+      "examine pair of pants",
+      "go north",
+      "go west"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Comic Strip Calendar": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine pair of pants": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260823.z8",
+    "seed": 20260823,
+    "t": 0,
+    "observation": "-= Bar =-\nYou arrive in a bar. An ordinary kind of place.\n\nYou see a gleam over in a corner, where you can see a bench. The bench is normal. But oh no! there's nothing on this piece of trash.\n\nYou need an unguarded exit? You should try going south.\n\nThere is an insect on the floor.",
+    "actions": [
+      "drop legume",
+      "eat legume",
+      "examine bench",
+      "examine insect",
+      "examine legume",
+      "go south"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine bench": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine insect": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine bench": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine insect": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260823.z8",
+    "seed": 20260823,
+    "t": 1,
+    "observation": "-= Sauna =-\nYou've just shown up in a sauna. You decide to start listing off everything you see in the room, as if you were in a text adventure.\n\n\n\nThere is an exit to the north. Don't worry, it is unblocked. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nThere is a gummy bear on the floor.",
+    "actions": [
+      "drop legume",
+      "eat legume",
+      "examine gummy bear",
+      "examine legume",
+      "go north",
+      "go west"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260823.z8",
+    "seed": 20260823,
+    "t": 2,
+    "observation": "-= Sauna =-\nYou've just shown up in a sauna. You decide to start listing off everything you see in the room, as if you were in a text adventure.\n\n\n\nThere is an exit to the north. Don't worry, it is unblocked. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nThere is a legume and a gummy bear on the floor.",
+    "actions": [
+      "examine gummy bear",
+      "examine legume",
+      "go north",
+      "go west",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go west": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260824.z8",
+    "seed": 20260824,
+    "t": 0,
+    "observation": "-= Kitchen =-\nYou arrive in a kitchen. An usual kind of place.\n\nLook out! It's a- oh, never mind, it's just a bowl. But the thing hasn't got anything on it.\n\nYou don't like doors? Why not try going south, that entranceway is unblocked.\n\nThere is a gummy bear on the floor.",
+    "actions": [
+      "examine bowl",
+      "examine gummy bear",
+      "go south",
+      "inventory",
+      "look",
+      "take gummy bear"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine bowl": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "go south": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.8333333333333334
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "take gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        }
+      },
+      "random_uniform": {
+        "examine bowl": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.041666666666666664
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.041666666666666664
+        },
+        "go south": {
+          "mean": 0.25,
+          "std": 0.5,
+          "ci95": 0.49,
+          "n": 4,
+          "advantage": 0.20833333333333334
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.041666666666666664
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.041666666666666664
+        },
+        "take gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.041666666666666664
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260824.z8",
+    "seed": 20260824,
+    "t": 1,
+    "observation": "-= Kitchen =-\nYou arrive in a kitchen. An usual kind of place.\n\nLook out! It's a- oh, never mind, it's just a bowl. But the thing hasn't got anything on it.\n\nYou don't like doors? Why not try going south, that entranceway is unblocked.\n\nThere is a gummy bear on the floor.",
+    "actions": [
+      "examine bowl",
+      "examine gummy bear",
+      "go south",
+      "inventory",
+      "look",
+      "take gummy bear"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine bowl": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine bowl": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260824.z8",
+    "seed": 20260824,
+    "t": 2,
+    "observation": "-= Kitchen =-\nYou arrive in a kitchen. An usual kind of place.\n\nLook out! It's a- oh, never mind, it's just a bowl. But the thing hasn't got anything on it.\n\nYou don't like doors? Why not try going south, that entranceway is unblocked.\n\nThere is a gummy bear on the floor.",
+    "actions": [
+      "examine bowl",
+      "examine gummy bear",
+      "go south",
+      "inventory",
+      "look",
+      "take gummy bear"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine bowl": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine bowl": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take gummy bear": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260825.z8",
+    "seed": 20260825,
+    "t": 0,
+    "observation": "-= Bedroom =-\nYou've just walked into a bedroom. Let's see what's in here.\n\n\n\nYou need an unguarded exit? You should try going east.",
+    "actions": [
+      "drop Henderson's style key",
+      "drop cashew",
+      "eat cashew",
+      "examine Henderson's style key",
+      "examine cashew",
+      "go east"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "drop cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "eat cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "examine Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "examine cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "go east": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.8333333333333334
+        }
+      },
+      "random_uniform": {
+        "drop Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260825.z8",
+    "seed": 20260825,
+    "t": 1,
+    "observation": "-= Bedroom =-\nYou've just walked into a bedroom. Let's see what's in here.\n\n\n\nYou need an unguarded exit? You should try going east.\n\nThere is a cashew on the floor.",
+    "actions": [
+      "drop Henderson's style key",
+      "examine Henderson's style key",
+      "examine cashew",
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260825.z8",
+    "seed": 20260825,
+    "t": 2,
+    "observation": "-= Bedroom =-\nYou've just walked into a bedroom. Let's see what's in here.\n\n\n\nYou need an unguarded exit? You should try going east.\n\nThere is a cashew on the floor.",
+    "actions": [
+      "drop Henderson's style key",
+      "examine Henderson's style key",
+      "examine cashew",
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine Henderson's style key": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cashew": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "train"
+  },
+  {
+    "game": "game_20260826.z8",
+    "seed": 20260826,
+    "t": 0,
+    "observation": "-= Sauna =-\nYou are in a sauna. An usual one.\n\nYou can see a rack. But the thing is empty, unfortunately. It would have been so cool if there was stuff on the rack.\n\nThere is an unblocked exit to the east.",
+    "actions": [
+      "examine rack",
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.25
+        },
+        "go east": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.75
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.25
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.25
+        }
+      },
+      "random_uniform": {
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260826.z8",
+    "seed": 20260826,
+    "t": 1,
+    "observation": "-= Sauna =-\nYou are in a sauna. An usual one.\n\nYou can see a rack. But the thing is empty, unfortunately. It would have been so cool if there was stuff on the rack.\n\nThere is an unblocked exit to the east.",
+    "actions": [
+      "examine rack",
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260826.z8",
+    "seed": 20260826,
+    "t": 2,
+    "observation": "-= Sauna =-\nYou are in a sauna. An usual one.\n\nYou can see a rack. But the thing is empty, unfortunately. It would have been so cool if there was stuff on the rack.\n\nThere is an unblocked exit to the east.",
+    "actions": [
+      "examine rack",
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260827.z8",
+    "seed": 20260827,
+    "t": 0,
+    "observation": "-= Workshop =-\nYou've just shown up in a workshop.\n\nYou smell an awful smell, and follow it to a mantelpiece. The mantelpiece appears to be empty.\n\nThere is an unblocked exit to the south.",
+    "actions": [
+      "drop legume",
+      "eat legume",
+      "examine legume",
+      "examine mantelpiece",
+      "go south",
+      "inventory"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "examine mantelpiece": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "go south": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.8333333333333334
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        }
+      },
+      "random_uniform": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine mantelpiece": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260827.z8",
+    "seed": 20260827,
+    "t": 1,
+    "observation": "-= Workshop =-\nYou've just shown up in a workshop.\n\nYou smell an awful smell, and follow it to a mantelpiece. The mantelpiece appears to be empty.\n\nThere is an unblocked exit to the south.",
+    "actions": [
+      "drop legume",
+      "eat legume",
+      "examine legume",
+      "examine mantelpiece",
+      "go south",
+      "inventory"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine mantelpiece": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine mantelpiece": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260827.z8",
+    "seed": 20260827,
+    "t": 2,
+    "observation": "-= Bedchamber =-\nYou've entered a standard room. Your mind races to think of what kind of room would be standard. And then it hits you. Of course. You're in the bedchamber.\n\nYou can make out an opened basket. The basket contains a tv and a textbook.\n\nYou don't like doors? Why not try going north, that entranceway is unblocked. You need an unblocked exit? You should try going west.",
+    "actions": [
+      "close basket",
+      "drop legume",
+      "eat legume",
+      "examine basket",
+      "examine legume",
+      "examine textbook"
+    ],
+    "q": {
+      "oracle_success": {
+        "close basket": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine basket": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine textbook": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "close basket": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "drop legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "eat legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine basket": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine legume": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine textbook": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260828.z8",
+    "seed": 20260828,
+    "t": 0,
+    "observation": "-= Closet =-\nYou find yourself in a closet. An ordinary kind of place.\n\nYou can make out a rack. The rack is ordinary. On the rack you can make out a broom. Now that's what I call TextWorld!\n\nYou don't like doors? Why not try going east, that entranceway is unguarded.",
+    "actions": [
+      "examine broom",
+      "examine rack",
+      "go east",
+      "inventory",
+      "look",
+      "take broom from rack"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.16666666666666666
+        },
+        "take broom from rack": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.8333333333333334
+        }
+      },
+      "random_uniform": {
+        "examine broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take broom from rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260828.z8",
+    "seed": 20260828,
+    "t": 1,
+    "observation": "-= Closet =-\nYou find yourself in a closet. An ordinary kind of place.\n\nYou can make out a rack. The rack is ordinary. On the rack you can make out a broom. Now that's what I call TextWorld!\n\nYou don't like doors? Why not try going east, that entranceway is unguarded.",
+    "actions": [
+      "examine broom",
+      "examine rack",
+      "go east",
+      "inventory",
+      "look",
+      "take broom from rack"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take broom from rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take broom from rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260828.z8",
+    "seed": 20260828,
+    "t": 2,
+    "observation": "-= Closet =-\nYou find yourself in a closet. An ordinary kind of place.\n\nYou can make out a rack. The rack is ordinary. But the thing is empty, unfortunately.\n\nYou don't like doors? Why not try going east, that entranceway is unguarded.",
+    "actions": [
+      "drop broom",
+      "examine broom",
+      "examine rack",
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine broom": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine rack": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260829.z8",
+    "seed": 20260829,
+    "t": 0,
+    "observation": "-= Playroom =-\nYou are in a playroom. An ordinary kind of place.\n\n\n\nThere is an unguarded exit to the south.\n\nThere is a cushion on the floor.",
+    "actions": [
+      "examine cushion",
+      "go south",
+      "inventory",
+      "look",
+      "take cushion"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.2
+        },
+        "go south": {
+          "mean": 1.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.8
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.2
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.2
+        },
+        "take cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": -0.2
+        }
+      },
+      "random_uniform": {
+        "examine cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260829.z8",
+    "seed": 20260829,
+    "t": 1,
+    "observation": "-= Playroom =-\nYou are in a playroom. An ordinary kind of place.\n\n\n\nThere is an unguarded exit to the south.",
+    "actions": [
+      "drop cushion",
+      "examine cushion",
+      "go south",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "oracle_success": {
+        "drop cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "drop cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "examine cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  },
+  {
+    "game": "game_20260829.z8",
+    "seed": 20260829,
+    "t": 2,
+    "observation": "-= Playroom =-\nYou are in a playroom. An ordinary kind of place.\n\n\n\nThere is an unguarded exit to the south.\n\nThere is a cushion on the floor.",
+    "actions": [
+      "examine cushion",
+      "go south",
+      "inventory",
+      "look",
+      "take cushion"
+    ],
+    "q": {
+      "oracle_success": {
+        "examine cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "go south": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        },
+        "take cushion": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 4,
+          "advantage": 0.0
+        }
+      }
+    },
+    "split": "test"
+  }
+]

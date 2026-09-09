@@ -1,0 +1,1411 @@
+{
+  "episodes": 100,
+  "accuracy": {
+    "full": 0.0,
+    "truncated": 0.0,
+    "learned": 0.0
+  },
+  "memory_train_accuracy": 0.999833345413208,
+  "rows": [
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the air conditioner hums. the only",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the air is stale. the walls are",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " the corridor is quiet. a lamp flick",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the dust is thick. the dust is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the lamp flickers. the lamp flick",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. a lamp flick",
+        "truncated": " which of the following statements is true?",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " you hear a distant fan. you hear",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " dust covers the floor. dust covers the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " the door creaks. the air",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. you hear",
+        "truncated": " the door creaks. you hear",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " these are all examples of what kind of",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " dust covers the floor. a lamp flick",
+        "truncated": " the air is stale. the walls are",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the lamp flickers. a man walks",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. dust covers the",
+        "truncated": " the room is dark. you feel the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " the door creaks. the air",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the room is dark. what do you",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the fan is silent. the fan is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " the corridor is quiet. dust covers the",
+        "truncated": " the room is dark. the door c",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. dust covers the",
+        "truncated": " dust covers the floor. the door c",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the fan is silent. the fan is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. dust covers the",
+        "truncated": " the room is dark. the door c",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " the corridor is quiet. a lamp flick",
+        "truncated": " the corridor is quiet. dust covers the",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " dust covers the floor. dust covers the",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the air is stale. the walls are",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " a lamp flickers. the corridor is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " dust covers the floor. dust covers the",
+        "truncated": " the air conditioner hums. the only",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the air conditioner hums. the only",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " dust covers the floor. dust covers the",
+        "truncated": " dust covers the floor. the corridor is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " the air is thick with the smell of",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. a lamp",
+        "truncated": " the only sound is the ticking of a",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you hear a distant fan. you hear",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " a lamp flickers. a lamp flick",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " dust covers the floor. dust covers the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the dust covers the floor. the corridor",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the lamp flickers. a man walks",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. dust covers the",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the door creaks. you hear",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. a lamp flick",
+        "truncated": " you hear a distant fan. you hear",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the door creaks. the air",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " the air is thick with the smell of",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the door to the room is closed.",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the air conditioner hums. the only",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " dust covers the floor. dust covers the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " you hear a distant fan. you hear",
+        "truncated": " the corridor is quiet. you hear a",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " the fan is blowing air. you hear",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you hear a distant fan. the corridor",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " dust covers the floor. dust covers the",
+        "truncated": " you can't see anything. you can",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " these are all examples of what kind of",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " dust covers the floor. a lamp flick",
+        "truncated": " the lamp flickers. a man walks",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " the lamp flickers. a man walks",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. you hear a",
+        "truncated": " the door is closed. the room is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " a lamp flickers. you hear a",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " the corridor is quiet. a lamp flick",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a fresh security",
+        "truncated": " dust covers the floor. dust covers the",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " you hear a distant fan. the corridor",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " dust covers the floor. a lamp flick",
+        "truncated": " the door creaks. the door",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the room is dark. you feel the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you hear a distant fan. the corridor",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. dust covers the",
+        "truncated": " the door creaks. the air",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. dust covers the",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you hear a distant fan. you hear",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " a lamp flickers. you hear a",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " you hear a distant fan. dust covers",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you feel a chill. what does this",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " which of the following statements is true?",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the dust covers the floor. the air",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " the room is dark. what do you",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " the dust covers the floor. the air",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. you hear a",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " a lamp flickers. a lamp flick",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the dust covers the floor. the air",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " the corridor is quiet. you hear a",
+        "truncated": " the air conditioner hums. the only",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. a lamp flick",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the air conditioner hums. the only",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " a lamp flickers. dust covers the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " you hear a distant fan. a lamp",
+        "truncated": " the door is closed. the room is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you feel a chill. what does this",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the door is closed. the room is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " dust covers the floor. you hear a",
+        "truncated": " you feel a chill. what does this",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. a lamp",
+        "truncated": " you are alone in the house. you",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the door creaks. the air",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the door creaks. the air",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the corridor is quiet. dust covers the",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " you hear a distant fan. a lamp",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you feel a chill. what does this",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " you hear a distant fan. you hear",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. a lamp flick",
+        "truncated": " a lamp flickers. a lamp flick",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " you hear a distant fan. the corridor",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. the corridor is",
+        "truncated": " the corridor is quiet. a lamp flick",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. the corridor is",
+        "truncated": " the fan is on. the fan is",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. a lamp flick",
+        "truncated": " the air is cool and damp. you",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. a lamp flick",
+        "truncated": " the corridor is quiet. the corridor is",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "right",
+      "predicted_memory": "right",
+      "outputs": {
+        "full": " the corridor is quiet. a lamp flick",
+        "truncated": " the door creaks. the air",
+        "learned": " if you are in a situation where you"
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " you hear a distant fan. the corridor",
+        "truncated": " a lamp flickers. a lamp flick",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    },
+    {
+      "truth": "left",
+      "predicted_memory": "left",
+      "outputs": {
+        "full": " a lamp flickers. you hear a",
+        "truncated": " i can hear my own breathing. i",
+        "learned": " what should be done next?\na."
+      },
+      "correct": {
+        "full": false,
+        "truncated": false,
+        "learned": false
+      }
+    }
+  ]
+}

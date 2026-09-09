@@ -1,0 +1,186 @@
+{
+  "explicit_results": "minigrid_qmemory_results/results.json",
+  "replay_results": "minigrid_replay_q_results/results.json",
+  "label_audit": {
+    "environment": "MiniGrid-MemoryS13Random-v0",
+    "start_seed": 100000,
+    "episodes": 2000,
+    "agreements": 2000,
+    "agreement_rate": 1.0,
+    "replay_class_counts": {
+      "1": 1002,
+      "2": 998
+    },
+    "mismatches": []
+  },
+  "environments": {
+    "MiniGrid-MemoryS13Random-v0": {
+      "runs": [
+        {
+          "training_seed": 0,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 1,
+          "episodes": 500,
+          "explicit_success_rate": 0.988,
+          "replay_success_rate": 0.988,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 2,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 3,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 4,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        }
+      ],
+      "mean_replay_success_rate": 0.9976,
+      "replay_seed_sd": 0.0053665631459995,
+      "total_episode_pairs": 2500,
+      "total_outcome_matches": 2500,
+      "total_action_sequence_matches": 2500,
+      "total_code_sequence_matches": 2500
+    },
+    "MiniGrid-MemoryS11-v0": {
+      "runs": [
+        {
+          "training_seed": 0,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 1,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 2,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 3,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 4,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        }
+      ],
+      "mean_replay_success_rate": 1.0,
+      "replay_seed_sd": 0.0,
+      "total_episode_pairs": 2500,
+      "total_outcome_matches": 2500,
+      "total_action_sequence_matches": 2500,
+      "total_code_sequence_matches": 2500
+    },
+    "MiniGrid-MemoryS17Random-v0": {
+      "runs": [
+        {
+          "training_seed": 0,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 1,
+          "episodes": 500,
+          "explicit_success_rate": 0.938,
+          "replay_success_rate": 0.938,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 2,
+          "episodes": 500,
+          "explicit_success_rate": 0.972,
+          "replay_success_rate": 0.972,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 3,
+          "episodes": 500,
+          "explicit_success_rate": 0.992,
+          "replay_success_rate": 0.992,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        },
+        {
+          "training_seed": 4,
+          "episodes": 500,
+          "explicit_success_rate": 1.0,
+          "replay_success_rate": 1.0,
+          "outcome_matches": 500,
+          "action_sequence_matches": 500,
+          "code_sequence_matches": 500
+        }
+      ],
+      "mean_replay_success_rate": 0.9803999999999999,
+      "replay_seed_sd": 0.026321094202179384,
+      "total_episode_pairs": 2500,
+      "total_outcome_matches": 2500,
+      "total_action_sequence_matches": 2500,
+      "total_code_sequence_matches": 2500
+    }
+  },
+  "all_episode_outcomes_match": true,
+  "all_action_sequences_match": true,
+  "all_code_sequences_match": true
+}

@@ -1,0 +1,236 @@
+{
+  "config": {
+    "examples": 2000,
+    "seed": 7,
+    "out": "pilot_baseline"
+  },
+  "test_examples": 600,
+  "paired_diagnostics": {
+    "pairs": 140,
+    "mean_text_distance": 0.19183804092823298,
+    "mean_q_advantage_distance": 4.0,
+    "action_flip_rate": 1.0
+  },
+  "rate_curve": [
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 0.5133333333333333,
+      "mean_regret": 0.9733333333333334,
+      "q_distortion": 0.9987318731873188,
+      "reconstruction_error": 0.3271988882020485,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 1,
+      "codes": 2,
+      "action_agreement": 0.55,
+      "mean_regret": 0.9,
+      "q_distortion": 0.9857243887654071,
+      "reconstruction_error": 0.32788919565123154,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 2,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 2,
+      "codes": 4,
+      "action_agreement": 0.525,
+      "mean_regret": 0.95,
+      "q_distortion": 0.9974947713006866,
+      "reconstruction_error": 0.32558209246645503,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 2,
+      "codes": 4,
+      "action_agreement": 0.5283333333333333,
+      "mean_regret": 0.9433333333333334,
+      "q_distortion": 0.9954490146935967,
+      "reconstruction_error": 0.3268342230841209,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 3,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 3,
+      "codes": 8,
+      "action_agreement": 0.5316666666666666,
+      "mean_regret": 0.9366666666666666,
+      "q_distortion": 0.9942282991901245,
+      "reconstruction_error": 0.32365686410630756,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 3,
+      "codes": 8,
+      "action_agreement": 0.5383333333333333,
+      "mean_regret": 0.9233333333333333,
+      "q_distortion": 0.9887078783223945,
+      "reconstruction_error": 0.3252830853364915,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 4,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 4,
+      "codes": 16,
+      "action_agreement": 0.5516666666666666,
+      "mean_regret": 0.8966666666666666,
+      "q_distortion": 0.9852937377733294,
+      "reconstruction_error": 0.3160504737486797,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 4,
+      "codes": 16,
+      "action_agreement": 0.565,
+      "mean_regret": 0.87,
+      "q_distortion": 0.9749361346236767,
+      "reconstruction_error": 0.32247761464746816,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 5,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 5,
+      "codes": 32,
+      "action_agreement": 0.58,
+      "mean_regret": 0.84,
+      "q_distortion": 0.960292821871298,
+      "reconstruction_error": 0.3045915611176318,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 5,
+      "codes": 32,
+      "action_agreement": 0.5766666666666667,
+      "mean_regret": 0.8466666666666667,
+      "q_distortion": 0.9573971610795309,
+      "reconstruction_error": 0.31597191312853107,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 6,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 6,
+      "codes": 64,
+      "action_agreement": 0.61,
+      "mean_regret": 0.78,
+      "q_distortion": 0.909041529370637,
+      "reconstruction_error": 0.2869167671643939,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 6,
+      "codes": 64,
+      "action_agreement": 0.6416666666666667,
+      "mean_regret": 0.7166666666666667,
+      "q_distortion": 0.8734664925717558,
+      "reconstruction_error": 0.30651179821752916,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 7,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 7,
+      "codes": 124,
+      "action_agreement": 0.655,
+      "mean_regret": 0.69,
+      "q_distortion": 0.8229939689939689,
+      "reconstruction_error": 0.2517113239696567,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 7,
+      "codes": 128,
+      "action_agreement": 0.6883333333333334,
+      "mean_regret": 0.6233333333333333,
+      "q_distortion": 0.7611984126984127,
+      "reconstruction_error": 0.28255392111636785,
+      "method": "sliding_window"
+    },
+    {
+      "bits": 8,
+      "codes": 2,
+      "action_agreement": 1.0,
+      "mean_regret": 0.0,
+      "q_distortion": 0.0,
+      "reconstruction_error": 0.3283230170915126,
+      "method": "q_memory"
+    },
+    {
+      "bits": 8,
+      "codes": 215,
+      "action_agreement": 0.725,
+      "mean_regret": 0.55,
+      "q_distortion": 0.657495411995412,
+      "reconstruction_error": 0.19339724128328106,
+      "method": "reconstruction"
+    },
+    {
+      "bits": 8,
+      "codes": 234,
+      "action_agreement": 0.7566666666666667,
+      "mean_regret": 0.4866666666666667,
+      "q_distortion": 0.5841507936507937,
+      "reconstruction_error": 0.22622132251650745,
+      "method": "sliding_window"
+    }
+  ],
+  "checks": {
+    "q_memory_one_bit_exact": true,
+    "q_better_than_reconstruction": true
+  }
+}

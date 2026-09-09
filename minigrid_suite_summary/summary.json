@@ -1,0 +1,666 @@
+{
+  "protocol": {
+    "env": "MiniGrid-MemoryS13Random-v0",
+    "train_episodes": 2000,
+    "test_episodes": 500,
+    "eval_envs": [
+      "MiniGrid-MemoryS11-v0",
+      "MiniGrid-MemoryS17Random-v0"
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "models": [
+      "q4",
+      "q1",
+      "continuous",
+      "window",
+      "retrieval",
+      "reconstruction"
+    ],
+    "epochs": 50,
+    "batch_size": 64,
+    "lr": 0.001,
+    "out": "minigrid_qmemory_results",
+    "device": "cuda"
+  },
+  "environment_results": {
+    "MiniGrid-MemoryS13Random-v0": {
+      "q4": {
+        "rates": [
+          1.0,
+          0.988,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "mean": 0.9976,
+        "seed_sd": 0.0053665631459995
+      },
+      "continuous": {
+        "rates": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "mean": 1.0,
+        "seed_sd": 0.0
+      },
+      "learned_retrieval": {
+        "rates": [
+          0.466,
+          1.0,
+          0.87,
+          0.92,
+          1.0
+        ],
+        "mean": 0.8512,
+        "seed_sd": 0.22234477731667096
+      },
+      "q1": {
+        "rates": [
+          0.53,
+          0.47,
+          0.53,
+          0.53,
+          0.53
+        ],
+        "mean": 0.518,
+        "seed_sd": 0.0268328157299975
+      },
+      "window": {
+        "rates": [
+          0.47,
+          0.47,
+          0.53,
+          0.53,
+          0.53
+        ],
+        "mean": 0.506,
+        "seed_sd": 0.032863353450309996
+      },
+      "observation_reconstruction": {
+        "rates": [
+          0.53,
+          0.47,
+          0.47,
+          0.53,
+          0.47
+        ],
+        "mean": 0.494,
+        "seed_sd": 0.032863353450309996
+      },
+      "discrete_policy": {
+        "rates": [
+          0.53,
+          0.47,
+          0.53,
+          0.47,
+          0.53
+        ],
+        "mean": 0.506,
+        "seed_sd": 0.032863353450309996
+      }
+    },
+    "MiniGrid-MemoryS11-v0": {
+      "q4": {
+        "rates": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "mean": 1.0,
+        "seed_sd": 0.0
+      },
+      "continuous": {
+        "rates": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "mean": 1.0,
+        "seed_sd": 0.0
+      },
+      "learned_retrieval": {
+        "rates": [
+          0.492,
+          1.0,
+          0.876,
+          0.95,
+          1.0
+        ],
+        "mean": 0.8636,
+        "seed_sd": 0.21384293301392965
+      },
+      "q1": {
+        "rates": [
+          0.496,
+          0.504,
+          0.496,
+          0.496,
+          0.496
+        ],
+        "mean": 0.4976,
+        "seed_sd": 0.0035777087639996667
+      },
+      "window": {
+        "rates": [
+          0.504,
+          0.504,
+          0.496,
+          0.496,
+          0.496
+        ],
+        "mean": 0.4992,
+        "seed_sd": 0.004381780460041333
+      },
+      "observation_reconstruction": {
+        "rates": [
+          0.496,
+          0.504,
+          0.504,
+          0.496,
+          0.504
+        ],
+        "mean": 0.5008,
+        "seed_sd": 0.004381780460041333
+      },
+      "discrete_policy": {
+        "rates": [
+          0.496,
+          0.504,
+          0.496,
+          0.504,
+          0.496
+        ],
+        "mean": 0.4992,
+        "seed_sd": 0.004381780460041333
+      }
+    },
+    "MiniGrid-MemoryS17Random-v0": {
+      "q4": {
+        "rates": [
+          1.0,
+          0.938,
+          0.972,
+          0.992,
+          1.0
+        ],
+        "mean": 0.9803999999999999,
+        "seed_sd": 0.026321094202179384
+      },
+      "continuous": {
+        "rates": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "mean": 1.0,
+        "seed_sd": 0.0
+      },
+      "learned_retrieval": {
+        "rates": [
+          0.476,
+          0.992,
+          0.89,
+          0.936,
+          1.0
+        ],
+        "mean": 0.8588,
+        "seed_sd": 0.21860283621215898
+      },
+      "q1": {
+        "rates": [
+          0.53,
+          0.47,
+          0.53,
+          0.53,
+          0.53
+        ],
+        "mean": 0.518,
+        "seed_sd": 0.0268328157299975
+      },
+      "window": {
+        "rates": [
+          0.47,
+          0.47,
+          0.53,
+          0.53,
+          0.53
+        ],
+        "mean": 0.506,
+        "seed_sd": 0.032863353450309996
+      },
+      "observation_reconstruction": {
+        "rates": [
+          0.53,
+          0.47,
+          0.47,
+          0.53,
+          0.47
+        ],
+        "mean": 0.494,
+        "seed_sd": 0.032863353450309996
+      },
+      "discrete_policy": {
+        "rates": [
+          0.53,
+          0.47,
+          0.53,
+          0.47,
+          0.53
+        ],
+        "mean": 0.506,
+        "seed_sd": 0.032863353450309996
+      }
+    }
+  },
+  "paired_q4_effects": {
+    "MiniGrid-MemoryS13Random-v0": {
+      "continuous": {
+        "per_seed_differences": [
+          0.0,
+          -0.01200000000000001,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mean_difference": -0.002400000000000002,
+        "hierarchical_bootstrap_95": [
+          -0.008,
+          0.0
+        ]
+      },
+      "learned_retrieval": {
+        "per_seed_differences": [
+          0.534,
+          -0.01200000000000001,
+          0.13,
+          0.07999999999999996,
+          0.0
+        ],
+        "mean_difference": 0.1464,
+        "hierarchical_bootstrap_95": [
+          0.012000000000000002,
+          0.34640999999999916
+        ]
+      },
+      "q1": {
+        "per_seed_differences": [
+          0.47,
+          0.518,
+          0.47,
+          0.47,
+          0.47
+        ],
+        "mean_difference": 0.47959999999999997,
+        "hierarchical_bootstrap_95": [
+          0.45480000000000004,
+          0.5064
+        ]
+      },
+      "window": {
+        "per_seed_differences": [
+          0.53,
+          0.518,
+          0.47,
+          0.47,
+          0.47
+        ],
+        "mean_difference": 0.4916,
+        "hierarchical_bootstrap_95": [
+          0.4616,
+          0.5228
+        ]
+      },
+      "observation_reconstruction": {
+        "per_seed_differences": [
+          0.47,
+          0.518,
+          0.53,
+          0.47,
+          0.53
+        ],
+        "mean_difference": 0.5036,
+        "hierarchical_bootstrap_95": [
+          0.472,
+          0.5347999999999999
+        ]
+      },
+      "discrete_policy": {
+        "per_seed_differences": [
+          0.47,
+          0.518,
+          0.47,
+          0.53,
+          0.47
+        ],
+        "mean_difference": 0.4916,
+        "hierarchical_bootstrap_95": [
+          0.46199999999999997,
+          0.5227999999999999
+        ]
+      }
+    },
+    "MiniGrid-MemoryS11-v0": {
+      "continuous": {
+        "per_seed_differences": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mean_difference": 0.0,
+        "hierarchical_bootstrap_95": [
+          0.0,
+          0.0
+        ]
+      },
+      "learned_retrieval": {
+        "per_seed_differences": [
+          0.508,
+          0.0,
+          0.124,
+          0.050000000000000044,
+          0.0
+        ],
+        "mean_difference": 0.13640000000000002,
+        "hierarchical_bootstrap_95": [
+          0.0104,
+          0.328
+        ]
+      },
+      "q1": {
+        "per_seed_differences": [
+          0.504,
+          0.496,
+          0.504,
+          0.504,
+          0.504
+        ],
+        "mean_difference": 0.5024,
+        "hierarchical_bootstrap_95": [
+          0.48279999999999995,
+          0.522
+        ]
+      },
+      "window": {
+        "per_seed_differences": [
+          0.496,
+          0.496,
+          0.504,
+          0.504,
+          0.504
+        ],
+        "mean_difference": 0.5008,
+        "hierarchical_bootstrap_95": [
+          0.4808,
+          0.5204000000000001
+        ]
+      },
+      "observation_reconstruction": {
+        "per_seed_differences": [
+          0.504,
+          0.496,
+          0.496,
+          0.504,
+          0.496
+        ],
+        "mean_difference": 0.4992,
+        "hierarchical_bootstrap_95": [
+          0.4796,
+          0.5191999999999999
+        ]
+      },
+      "discrete_policy": {
+        "per_seed_differences": [
+          0.504,
+          0.496,
+          0.504,
+          0.496,
+          0.504
+        ],
+        "mean_difference": 0.5008,
+        "hierarchical_bootstrap_95": [
+          0.4808,
+          0.5208
+        ]
+      }
+    },
+    "MiniGrid-MemoryS17Random-v0": {
+      "continuous": {
+        "per_seed_differences": [
+          0.0,
+          -0.062000000000000055,
+          -0.028000000000000025,
+          -0.008000000000000007,
+          0.0
+        ],
+        "mean_difference": -0.019600000000000017,
+        "hierarchical_bootstrap_95": [
+          -0.0432,
+          -0.0016
+        ]
+      },
+      "learned_retrieval": {
+        "per_seed_differences": [
+          0.524,
+          -0.05400000000000005,
+          0.08199999999999996,
+          0.05599999999999994,
+          0.0
+        ],
+        "mean_difference": 0.12159999999999997,
+        "hierarchical_bootstrap_95": [
+          -0.013600000000000001,
+          0.3296
+        ]
+      },
+      "q1": {
+        "per_seed_differences": [
+          0.47,
+          0.46799999999999997,
+          0.44199999999999995,
+          0.46199999999999997,
+          0.47
+        ],
+        "mean_difference": 0.4624,
+        "hierarchical_bootstrap_95": [
+          0.43920000000000003,
+          0.48440000000000005
+        ]
+      },
+      "window": {
+        "per_seed_differences": [
+          0.53,
+          0.46799999999999997,
+          0.44199999999999995,
+          0.46199999999999997,
+          0.47
+        ],
+        "mean_difference": 0.4744,
+        "hierarchical_bootstrap_95": [
+          0.4428,
+          0.5088
+        ]
+      },
+      "observation_reconstruction": {
+        "per_seed_differences": [
+          0.47,
+          0.46799999999999997,
+          0.502,
+          0.46199999999999997,
+          0.53
+        ],
+        "mean_difference": 0.4864,
+        "hierarchical_bootstrap_95": [
+          0.45640000000000003,
+          0.5176000000000001
+        ]
+      },
+      "discrete_policy": {
+        "per_seed_differences": [
+          0.47,
+          0.46799999999999997,
+          0.44199999999999995,
+          0.522,
+          0.47
+        ],
+        "mean_difference": 0.4744,
+        "hierarchical_bootstrap_95": [
+          0.4448,
+          0.5064
+        ]
+      }
+    }
+  },
+  "capacity": {
+    "q1": {
+      "rates": [
+        0.53,
+        0.47,
+        0.53,
+        0.53,
+        0.53
+      ],
+      "mean": 0.518,
+      "seed_sd": 0.0268328157299975
+    },
+    "q3": {
+      "rates": [
+        0.772,
+        0.734,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mean": 0.9012,
+      "seed_sd": 0.13595293303198722
+    },
+    "q4": {
+      "rates": [
+        1.0,
+        0.988,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mean": 0.9976,
+      "seed_sd": 0.0053665631459995
+    },
+    "q8": {
+      "rates": [
+        0.988,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mean": 0.9976,
+      "seed_sd": 0.0053665631459995
+    }
+  },
+  "nested_data_efficiency": {
+    "250": {
+      "rates": [
+        0.492,
+        0.27,
+        0.27,
+        0.75,
+        0.53
+      ],
+      "mean": 0.46240000000000003,
+      "seed_sd": 0.20136732604869143
+    },
+    "500": {
+      "rates": [
+        1.0,
+        1.0,
+        1.0,
+        0.494,
+        0.992
+      ],
+      "mean": 0.8972,
+      "seed_sd": 0.22542227041709964
+    },
+    "1000": {
+      "rates": [
+        0.988,
+        0.988,
+        1.0,
+        1.0,
+        0.992
+      ],
+      "mean": 0.9936,
+      "seed_sd": 0.0060663003552412454
+    },
+    "2000": {
+      "rates": [
+        1.0,
+        0.988,
+        0.98,
+        0.988,
+        0.996
+      ],
+      "mean": 0.9904,
+      "seed_sd": 0.007797435475847178
+    }
+  },
+  "negative_decision_target_attempts": [
+    {
+      "mean_success_rate": 0.47,
+      "seed_sd": 0.0,
+      "rates": [
+        0.47
+      ]
+    },
+    {
+      "mean_success_rate": 0.472,
+      "seed_sd": 0.0,
+      "rates": [
+        0.472
+      ]
+    }
+  ],
+  "q4_codes_used": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2
+    ]
+  },
+  "formal_wall_seconds": 2535.96706032753
+}

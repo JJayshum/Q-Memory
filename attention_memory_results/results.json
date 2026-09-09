@@ -1,0 +1,44 @@
+{
+  "config": {
+    "train": 6000,
+    "test": 2000,
+    "seeds": 5,
+    "epochs": 300,
+    "hidden": 64,
+    "lr": 0.002,
+    "out": "/root/autodl-tmp/attention_memory_results"
+  },
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "rows": [
+    {
+      "seed": 0,
+      "train_accuracy": 1.0,
+      "accuracy": 0.9235000610351562,
+      "device": "cuda"
+    },
+    {
+      "seed": 1,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "seed": 2,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "seed": 3,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    },
+    {
+      "seed": 4,
+      "train_accuracy": 1.0,
+      "accuracy": 1.0,
+      "device": "cuda"
+    }
+  ]
+}

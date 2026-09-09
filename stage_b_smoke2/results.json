@@ -1,0 +1,36 @@
+{
+  "config": {
+    "games": 2,
+    "train_games": 16,
+    "snapshots": 3,
+    "horizon": 6,
+    "rollouts": 2,
+    "max_actions": 6,
+    "seed": 20260818,
+    "out": "stage_b_smoke2"
+  },
+  "environment": "TextWorld 1.7.0",
+  "candidate_mode": "oracle_admissible_actions",
+  "games": 2,
+  "snapshots": 6,
+  "audit": {
+    "reset_match_rate": 1.0,
+    "replay_transition_match_rate": 1.0,
+    "copy_branch_match_rate": 1.0
+  },
+  "coverage": {
+    "mean_actions_per_snapshot": 3.5,
+    "min_actions": 3
+  },
+  "cost": {
+    "wall_seconds": 18.004700899124146,
+    "cpu_hours": 0.005286417750277778,
+    "gpu_hours": 0.0,
+    "branch_rollouts": 84,
+    "branch_env_steps": 588
+  },
+  "gate": {
+    "replay_pass": true,
+    "enough_labels": true
+  }
+}

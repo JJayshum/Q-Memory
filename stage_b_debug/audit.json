@@ -1,0 +1,12 @@
+[
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "reset_match": true,
+    "replay_transition_match_rate": 1.0,
+    "replay_transitions": 12,
+    "copy_branch_match_rate": 1.0,
+    "copy_branches": 3,
+    "prefix_length": 6
+  }
+]

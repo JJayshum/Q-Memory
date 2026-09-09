@@ -1,0 +1,409 @@
+game,seed,t,policy,action,mean,std,ci95,n,advantage
+game_20260818.z8,20260818,0,oracle_success,examine chest,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,go east,1.0,0.0,0.0,4,0.8333333333333334
+game_20260818.z8,20260818,0,oracle_success,go south,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,inventory,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,look,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260818.z8,20260818,0,oracle_success,open chest,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260818.z8,20260818,0,random_uniform,examine chest,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,0,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,0,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,0,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,0,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,0,random_uniform,open chest,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,oracle_success,examine chest,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,oracle_success,open chest,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,random_uniform,examine chest,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,1,random_uniform,open chest,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,oracle_success,examine candy bar,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,oracle_success,examine shelf,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,oracle_success,examine shirt,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,random_uniform,examine candy bar,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,random_uniform,examine shelf,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,random_uniform,examine shirt,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260818.z8,20260818,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,oracle_success,close fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,oracle_success,examine box,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,oracle_success,examine fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,oracle_success,examine latchkey,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,random_uniform,close fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,random_uniform,examine box,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,random_uniform,examine fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,random_uniform,examine latchkey,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,0,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,oracle_success,close fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,oracle_success,examine box,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,oracle_success,examine fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,oracle_success,examine latchkey,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,random_uniform,close fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,random_uniform,examine box,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,random_uniform,examine fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,random_uniform,examine latchkey,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,1,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,oracle_success,close fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,oracle_success,examine box,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,oracle_success,examine fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,oracle_success,examine latchkey,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,random_uniform,close fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,random_uniform,examine box,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,random_uniform,examine fridge,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,random_uniform,examine latchkey,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260819.z8,20260819,2,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,oracle_success,examine locker,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,oracle_success,examine non-euclidean locker,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,oracle_success,open locker,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,random_uniform,examine locker,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,random_uniform,examine non-euclidean locker,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,0,random_uniform,open locker,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,oracle_success,examine napkin,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,oracle_success,take napkin,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,random_uniform,examine napkin,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260820.z8,20260820,2,random_uniform,take napkin,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,oracle_success,drop fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,oracle_success,drop tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,oracle_success,eat fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,oracle_success,examine fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,oracle_success,examine safe,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,oracle_success,examine tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,random_uniform,drop fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,random_uniform,drop tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,random_uniform,eat fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,random_uniform,examine fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,random_uniform,examine safe,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,0,random_uniform,examine tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,oracle_success,drop fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,oracle_success,drop tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,oracle_success,eat fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,oracle_success,examine fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,oracle_success,examine safe,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,oracle_success,examine tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,random_uniform,drop fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,random_uniform,drop tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,random_uniform,eat fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,random_uniform,examine fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,random_uniform,examine safe,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,1,random_uniform,examine tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,oracle_success,drop fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,oracle_success,drop tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,oracle_success,eat fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,oracle_success,examine fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,oracle_success,examine safe,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,oracle_success,examine tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,random_uniform,drop fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,random_uniform,drop tv,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,random_uniform,eat fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,random_uniform,examine fondue,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,random_uniform,examine safe,0.0,0.0,0.0,4,0.0
+game_20260821.z8,20260821,2,random_uniform,examine tv,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,oracle_success,drop Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,oracle_success,drop pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,oracle_success,examine Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,oracle_success,examine bug,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,oracle_success,examine pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,random_uniform,drop Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,random_uniform,drop pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,random_uniform,examine Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,random_uniform,examine bug,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,random_uniform,examine pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,0,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,oracle_success,drop Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,oracle_success,drop pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,oracle_success,examine Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,oracle_success,examine bug,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,oracle_success,examine pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,random_uniform,drop Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,random_uniform,drop pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,random_uniform,examine Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,random_uniform,examine bug,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,random_uniform,examine pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,1,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,oracle_success,drop Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,oracle_success,drop pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,oracle_success,examine Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,oracle_success,examine pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,random_uniform,drop Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,random_uniform,drop pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,random_uniform,examine Comic Strip Calendar,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,random_uniform,examine pair of pants,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260822.z8,20260822,2,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,oracle_success,drop legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,oracle_success,eat legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,oracle_success,examine bench,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,oracle_success,examine insect,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,oracle_success,examine legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,random_uniform,drop legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,random_uniform,eat legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,random_uniform,examine bench,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,random_uniform,examine insect,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,random_uniform,examine legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,0,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,oracle_success,drop legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,oracle_success,eat legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,oracle_success,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,oracle_success,examine legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,random_uniform,drop legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,random_uniform,eat legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,random_uniform,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,random_uniform,examine legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,1,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,oracle_success,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,oracle_success,examine legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,oracle_success,go north,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,oracle_success,go west,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,random_uniform,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,random_uniform,examine legume,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,random_uniform,go north,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,random_uniform,go west,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260823.z8,20260823,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,0,oracle_success,examine bowl,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260824.z8,20260824,0,oracle_success,examine gummy bear,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260824.z8,20260824,0,oracle_success,go south,1.0,0.0,0.0,4,0.8333333333333334
+game_20260824.z8,20260824,0,oracle_success,inventory,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260824.z8,20260824,0,oracle_success,look,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260824.z8,20260824,0,oracle_success,take gummy bear,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260824.z8,20260824,0,random_uniform,examine bowl,0.0,0.0,0.0,4,-0.041666666666666664
+game_20260824.z8,20260824,0,random_uniform,examine gummy bear,0.0,0.0,0.0,4,-0.041666666666666664
+game_20260824.z8,20260824,0,random_uniform,go south,0.25,0.5,0.49,4,0.20833333333333334
+game_20260824.z8,20260824,0,random_uniform,inventory,0.0,0.0,0.0,4,-0.041666666666666664
+game_20260824.z8,20260824,0,random_uniform,look,0.0,0.0,0.0,4,-0.041666666666666664
+game_20260824.z8,20260824,0,random_uniform,take gummy bear,0.0,0.0,0.0,4,-0.041666666666666664
+game_20260824.z8,20260824,1,oracle_success,examine bowl,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,oracle_success,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,oracle_success,take gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,random_uniform,examine bowl,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,random_uniform,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,1,random_uniform,take gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,oracle_success,examine bowl,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,oracle_success,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,oracle_success,take gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,random_uniform,examine bowl,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,random_uniform,examine gummy bear,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260824.z8,20260824,2,random_uniform,take gummy bear,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,0,oracle_success,drop Henderson's style key,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260825.z8,20260825,0,oracle_success,drop cashew,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260825.z8,20260825,0,oracle_success,eat cashew,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260825.z8,20260825,0,oracle_success,examine Henderson's style key,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260825.z8,20260825,0,oracle_success,examine cashew,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260825.z8,20260825,0,oracle_success,go east,1.0,0.0,0.0,4,0.8333333333333334
+game_20260825.z8,20260825,0,random_uniform,drop Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,0,random_uniform,drop cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,0,random_uniform,eat cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,0,random_uniform,examine Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,0,random_uniform,examine cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,0,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,oracle_success,drop Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,oracle_success,examine Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,oracle_success,examine cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,random_uniform,drop Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,random_uniform,examine Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,random_uniform,examine cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,oracle_success,drop Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,oracle_success,examine Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,oracle_success,examine cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,random_uniform,drop Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,random_uniform,examine Henderson's style key,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,random_uniform,examine cashew,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260825.z8,20260825,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,0,oracle_success,examine rack,0.0,0.0,0.0,4,-0.25
+game_20260826.z8,20260826,0,oracle_success,go east,1.0,0.0,0.0,4,0.75
+game_20260826.z8,20260826,0,oracle_success,inventory,0.0,0.0,0.0,4,-0.25
+game_20260826.z8,20260826,0,oracle_success,look,0.0,0.0,0.0,4,-0.25
+game_20260826.z8,20260826,0,random_uniform,examine rack,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,0,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,0,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,0,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,oracle_success,examine rack,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,random_uniform,examine rack,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,oracle_success,examine rack,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,random_uniform,examine rack,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260826.z8,20260826,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,0,oracle_success,drop legume,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260827.z8,20260827,0,oracle_success,eat legume,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260827.z8,20260827,0,oracle_success,examine legume,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260827.z8,20260827,0,oracle_success,examine mantelpiece,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260827.z8,20260827,0,oracle_success,go south,1.0,0.0,0.0,4,0.8333333333333334
+game_20260827.z8,20260827,0,oracle_success,inventory,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260827.z8,20260827,0,random_uniform,drop legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,0,random_uniform,eat legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,0,random_uniform,examine legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,0,random_uniform,examine mantelpiece,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,0,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,0,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,oracle_success,drop legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,oracle_success,eat legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,oracle_success,examine legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,oracle_success,examine mantelpiece,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,random_uniform,drop legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,random_uniform,eat legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,random_uniform,examine legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,random_uniform,examine mantelpiece,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,oracle_success,close basket,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,oracle_success,drop legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,oracle_success,eat legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,oracle_success,examine basket,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,oracle_success,examine legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,oracle_success,examine textbook,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,random_uniform,close basket,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,random_uniform,drop legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,random_uniform,eat legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,random_uniform,examine basket,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,random_uniform,examine legume,0.0,0.0,0.0,4,0.0
+game_20260827.z8,20260827,2,random_uniform,examine textbook,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,0,oracle_success,examine broom,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260828.z8,20260828,0,oracle_success,examine rack,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260828.z8,20260828,0,oracle_success,go east,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260828.z8,20260828,0,oracle_success,inventory,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260828.z8,20260828,0,oracle_success,look,0.0,0.0,0.0,4,-0.16666666666666666
+game_20260828.z8,20260828,0,oracle_success,take broom from rack,1.0,0.0,0.0,4,0.8333333333333334
+game_20260828.z8,20260828,0,random_uniform,examine broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,0,random_uniform,examine rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,0,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,0,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,0,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,0,random_uniform,take broom from rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,oracle_success,examine broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,oracle_success,examine rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,oracle_success,take broom from rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,random_uniform,examine broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,random_uniform,examine rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,1,random_uniform,take broom from rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,oracle_success,drop broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,oracle_success,examine broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,oracle_success,examine rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,oracle_success,go east,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,random_uniform,drop broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,random_uniform,examine broom,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,random_uniform,examine rack,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,random_uniform,go east,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260828.z8,20260828,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,0,oracle_success,examine cushion,0.0,0.0,0.0,4,-0.2
+game_20260829.z8,20260829,0,oracle_success,go south,1.0,0.0,0.0,4,0.8
+game_20260829.z8,20260829,0,oracle_success,inventory,0.0,0.0,0.0,4,-0.2
+game_20260829.z8,20260829,0,oracle_success,look,0.0,0.0,0.0,4,-0.2
+game_20260829.z8,20260829,0,oracle_success,take cushion,0.0,0.0,0.0,4,-0.2
+game_20260829.z8,20260829,0,random_uniform,examine cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,0,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,0,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,0,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,0,random_uniform,take cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,oracle_success,drop cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,oracle_success,examine cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,random_uniform,drop cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,random_uniform,examine cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,1,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,oracle_success,examine cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,oracle_success,go south,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,oracle_success,inventory,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,oracle_success,look,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,oracle_success,take cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,random_uniform,examine cushion,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,random_uniform,go south,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,random_uniform,inventory,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,random_uniform,look,0.0,0.0,0.0,4,0.0
+game_20260829.z8,20260829,2,random_uniform,take cushion,0.0,0.0,0.0,4,0.0

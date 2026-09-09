@@ -1,0 +1,86 @@
+{
+  "device": "cuda",
+  "torch": "2.5.1+cu124",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "config": {
+    "train": 6000,
+    "test": 2000,
+    "epochs": 25,
+    "batch": 256,
+    "hidden": 64,
+    "length": 32,
+    "lr": 0.002,
+    "balance": 0.05,
+    "codes": "2",
+    "objectives": "q_permuted",
+    "seeds": 5,
+    "out": "learned_permuted"
+  },
+  "runs": [
+    {
+      "objective": "q_permuted",
+      "codes": 2,
+      "bits": 1.0,
+      "seed": 0,
+      "action_accuracy": 0.5235000252723694,
+      "probe_accuracy": 0.476500004529953,
+      "q_mse": 1.016213297843933,
+      "reconstruction_mse": 3.062511920928955,
+      "used_codes": 2,
+      "empirical_bits": 0.7490593194961548,
+      "seconds": 20.861586332321167
+    },
+    {
+      "objective": "q_permuted",
+      "codes": 2,
+      "bits": 1.0,
+      "seed": 1,
+      "action_accuracy": 0.5240000486373901,
+      "probe_accuracy": 0.5239999890327454,
+      "q_mse": 0.9979574680328369,
+      "reconstruction_mse": 3.062067747116089,
+      "used_codes": 1,
+      "empirical_bits": 2.989735037317587e-08,
+      "seconds": 21.23129963874817
+    },
+    {
+      "objective": "q_permuted",
+      "codes": 2,
+      "bits": 1.0,
+      "seed": 2,
+      "action_accuracy": 0.5055000185966492,
+      "probe_accuracy": 0.4945000112056732,
+      "q_mse": 0.9999387264251709,
+      "reconstruction_mse": 3.0443127155303955,
+      "used_codes": 1,
+      "empirical_bits": 2.989735037317587e-08,
+      "seconds": 20.567052602767944
+    },
+    {
+      "objective": "q_permuted",
+      "codes": 2,
+      "bits": 1.0,
+      "seed": 3,
+      "action_accuracy": 0.515500009059906,
+      "probe_accuracy": 0.515500009059906,
+      "q_mse": 1.029712438583374,
+      "reconstruction_mse": 3.077690362930298,
+      "used_codes": 2,
+      "empirical_bits": 0.8902665376663208,
+      "seconds": 19.019863843917847
+    },
+    {
+      "objective": "q_permuted",
+      "codes": 2,
+      "bits": 1.0,
+      "seed": 4,
+      "action_accuracy": 0.503000020980835,
+      "probe_accuracy": 0.503000020980835,
+      "q_mse": 1.0356743335723877,
+      "reconstruction_mse": 3.086656332015991,
+      "used_codes": 2,
+      "empirical_bits": 0.8667757511138916,
+      "seconds": 20.40849018096924
+    }
+  ]
+}

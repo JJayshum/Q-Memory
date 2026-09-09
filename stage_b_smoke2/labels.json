@@ -1,0 +1,401 @@
+[
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 0,
+    "observation": "-= Laundromat =-\nYou've entered a laundromat. Okay, just remember what you're here to do, and everything will go great.\n\nYou make out a table. Unfortunately, there isn't a thing on it.\n\nThere is an unguarded exit to the north.",
+    "actions": [
+      "examine table",
+      "go north",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "lexicographic": {
+        "examine table": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine table": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      }
+    }
+  },
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 1,
+    "observation": "-= Laundromat =-\nYou've entered a laundromat. Okay, just remember what you're here to do, and everything will go great.\n\nYou make out a table. Unfortunately, there isn't a thing on it.\n\nThere is an unguarded exit to the north.",
+    "actions": [
+      "examine table",
+      "go north",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "lexicographic": {
+        "examine table": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine table": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      }
+    }
+  },
+  {
+    "game": "game_20260818.z8",
+    "seed": 20260818,
+    "t": 2,
+    "observation": "-= Laundromat =-\nYou've entered a laundromat. Okay, just remember what you're here to do, and everything will go great.\n\nYou make out a table. Unfortunately, there isn't a thing on it.\n\nThere is an unguarded exit to the north.",
+    "actions": [
+      "examine table",
+      "go north",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "lexicographic": {
+        "examine table": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "examine table": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "go north": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      }
+    }
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 0,
+    "observation": "-= Bedchamber =-\nYou are in a bedchamber. An usual one.\n\n\n\nThere is an unguarded exit to the east.",
+    "actions": [
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "lexicographic": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      }
+    }
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 1,
+    "observation": "-= Bedchamber =-\nYou are in a bedchamber. An usual one.\n\n\n\nThere is an unguarded exit to the east.",
+    "actions": [
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "lexicographic": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      }
+    }
+  },
+  {
+    "game": "game_20260819.z8",
+    "seed": 20260819,
+    "t": 2,
+    "observation": "-= Bedchamber =-\nYou are in a bedchamber. An usual one.\n\n\n\nThere is an unguarded exit to the east.",
+    "actions": [
+      "go east",
+      "inventory",
+      "look"
+    ],
+    "q": {
+      "lexicographic": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      },
+      "random_uniform": {
+        "go east": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "inventory": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        },
+        "look": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "n": 2,
+          "advantage": 0.0
+        }
+      }
+    }
+  }
+]
