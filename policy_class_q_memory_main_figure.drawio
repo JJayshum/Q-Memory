@@ -179,7 +179,7 @@
         <mxCell id="49" value="Rate  &lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R(m&lt;sub&gt;t&lt;/sub&gt;) = &amp;minus;log&lt;sub&gt;2&lt;/sub&gt; P(m&lt;sub&gt;t&lt;/sub&gt;)&lt;/i&gt;&lt;/font&gt;  (bits)" vertex="1" parent="3" style="html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=18;fontColor=#080808;spacing=2;text;fillColor=none;strokeColor=none;fontSize=21;fontColor=#001bba;fontStyle=0;align=center;verticalAlign=middle;">
           <mxGeometry as="geometry" x="18" y="272" width="386" height="42" />
         </mxCell>
-        <mxCell id="50" value="same code &amp;rArr; similar centered action advantages" vertex="1" parent="3" style="html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=18;fontColor=#080808;spacing=2;rounded=1;arcSize=8;absoluteArcSize=1;fillColor=#f9fff6;strokeColor=#5b9171;strokeWidth=1;fontSize=17;fontColor=#155124;">
+        <mxCell id="50" value="same code =&amp;gt; similar centered action advantages" vertex="1" parent="3" style="html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=18;fontColor=#080808;spacing=2;rounded=1;arcSize=8;absoluteArcSize=1;fillColor=#f9fff6;strokeColor=#5b9171;strokeWidth=1;fontSize=17;fontColor=#155124;">
           <mxGeometry as="geometry" x="12" y="325" width="396" height="38" />
         </mxCell>
         <mxCell id="51" value="3) DEPLOYMENT" vertex="1" parent="4" style="html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=18;fontColor=#080808;spacing=2;text;fillColor=none;strokeColor=none;fontSize=23;fontColor=#151515;fontStyle=1;align=center;verticalAlign=middle;">

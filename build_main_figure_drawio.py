@@ -114,7 +114,7 @@ line([(22, 264), (400, 264)], '#777777', parent=memory, dashed=True)
 text('Rate  ' + math('R(m<sub>t</sub>) = &minus;log<sub>2</sub> P(m<sub>t</sub>)') + '  (bits)',
      18, 272, 386, 42, 21, BLUE, memory)
 box(12, 325, 396, 38, '#f9fff6', '#5b9171',
-    'same code &rArr; similar centered action advantages', memory, 'fontSize=17;fontColor=#155124;')
+    'same code =&gt; similar centered action advantages', memory, 'fontSize=17;fontColor=#155124;')
 
 text('3) DEPLOYMENT', 10, 9, 490, 31, 23, parent=deploy, bold=True)
 for x, w, label in [(16, 124, math('m<sub>t</sub>')), (150, 107, math('o<sub>t</sub>')),

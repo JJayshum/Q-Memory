@@ -20,7 +20,8 @@ Verified on 10 September 2026 against the official [Call for Papers](https://202
 - Upload PDF: `shen.pdf`
 - Main LaTeX source: `POLICY_CLASS_Q_MEMORY_ICASSP2027.tex`
 - Web-form abstract: `ICASSP2027_ABSTRACT.txt` (147 words)
-- Main figure: `policy_class_q_memory_main_figure_clear.png`
+- Editable main figure: `policy_class_q_memory_main_figure.drawio`
+- Manuscript figure export: `policy_class_q_memory_main_figure.pdf`
 - Official 2027 style files: `spconf.sty` and `IEEEbib.bst`
 - Submission source archive: `ICASSP2027_submission_source_v9.zip`
 

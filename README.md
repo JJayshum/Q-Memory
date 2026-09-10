@@ -22,9 +22,9 @@ The public repository contains scripts and reported result artifacts, but it doe
 
 ## Editable main figure
 
-`policy_class_q_memory_main_figure.drawio` reconstructs the supplied figure with native editable objects, preserving its pastel panels, colored arrows, layout, and labels. Open this source in draw.io to revise it. The `.svg` export is vector-based; `.drawio.png` is a high-resolution image with the editable diagram embedded. The plain `.png` is a smaller preview. `build_main_figure_drawio.py` reproduces the initial redraw; running it again overwrites manual edits to the `.drawio` source.
+`policy_class_q_memory_main_figure.drawio` reconstructs the supplied figure with native editable objects, preserving its pastel panels, colored arrows, layout, and labels. Open this source in draw.io to revise it. The manuscript includes `policy_class_q_memory_main_figure.pdf`, a vector export with the editable diagram embedded. The `.svg` export is also vector-based; `.drawio.png` is a high-resolution image with the editable diagram embedded. The plain `.png` is a smaller preview. `build_main_figure_drawio.py` reproduces the initial redraw; running it again overwrites manual edits to the `.drawio` source.
 
-The manuscript currently references the original `policy_class_q_memory_main_figure_clear.png`. Final placement of the redraw must include a check of printed label sizes and the four-page technical-content limit.
+The manuscript references the draw.io PDF export at `0.70\textwidth`. Any later resizing must include another check of printed label sizes and the four-page technical-content limit.
 
 ## Stage A CPU pilot
 

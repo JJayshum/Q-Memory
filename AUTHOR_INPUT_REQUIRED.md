@@ -41,7 +41,7 @@ This decision changes the paper's central contribution. It must be made and veri
 
 ## 5. Main-figure legibility
 
-The figure has now been faithfully redrawn in draw.io as `policy_class_q_memory_main_figure.drawio`, with editable text, shapes, arrows, and bars. Vector SVG and high-resolution PNG exports are also available. No editable source or redraw permission is needed from the authors anymore. Some labels would still be below 9 pt at the manuscript's current 70%-text-width scale; final sizing must be resolved during manuscript revision, with another page-layout check afterward.
+The figure has now been faithfully redrawn in draw.io as `policy_class_q_memory_main_figure.drawio`, with editable text, shapes, arrows, and bars. The manuscript uses its vector PDF export. No editable source or redraw permission is needed from the authors anymore. Some labels remain below 9 pt at the manuscript's current 70%-text-width scale; final sizing must be resolved during manuscript revision, with another page-layout check afterward.
 
 ## 6. Required author verification under the LLM policy
 
