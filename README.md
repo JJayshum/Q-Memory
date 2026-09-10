@@ -1,6 +1,28 @@
-# Policy-Class Q-Sufficient Memory: CPU Pilot
+# Policy-Class Q-Sufficient Memory
 
-This pilot implements Stage A from the proposal in a finite, deterministic text POMDP. It is an exact mechanism test, not a claim about language-agent benchmark performance.
+This repository contains the mechanism experiments and ICASSP 2027 manuscript for policy-class Q-sufficient memory. The work studies whether a low-rate recurrent code preserves distinctions needed for decisions under a declared policy class. It intentionally does not claim universal state sufficiency or performance on open-ended agent benchmarks.
+
+## ICASSP 2027 manuscript
+
+- `POLICY_CLASS_Q_MEMORY_ICASSP2027.tex`: submission source.
+- `shen.pdf`: upload-ready filename after the latest verified build.
+- `ICASSP2027_ABSTRACT.txt`: web-form abstract.
+- `ICASSP2027_SUBMISSION_CHECKLIST.md`: official format and portal checks.
+- `AUTHOR_INPUT_REQUIRED.md`: author metadata, scientific decisions, and attestations still required before submission.
+
+Compile with the official 2027 `spconf.sty` using a full TeX Live installation:
+
+```bash
+mkdir -p icassp2027_build
+latexmk -pdf -interaction=nonstopmode -halt-on-error \
+  -outdir=icassp2027_build POLICY_CLASS_Q_MEMORY_ICASSP2027.tex
+```
+
+The public repository contains scripts and reported result artifacts, but it does not yet contain every environment lockfile, split manifest, or model checkpoint needed for a complete archival reproduction.
+
+## Stage A CPU pilot
+
+The initial pilot implements Stage A in a finite, deterministic text POMDP. It is an exact mechanism test, not a claim about language-agent benchmark performance.
 
 Run: `python3 qmemory_pilot.py --examples 2000 --out pilot_results`
 

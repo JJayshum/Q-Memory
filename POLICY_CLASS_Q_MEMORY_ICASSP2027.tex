@@ -1,6 +1,7 @@
 % ICASSP 2027 submission draft. Official Paper Kit: spconf.sty.
 \documentclass{article}
-\usepackage{spconf,amsmath,amssymb,graphicx,booktabs,hyperref}
+\usepackage{spconf,amsmath,amssymb,graphicx,booktabs}
+\usepackage[hidelinks]{hyperref}
 \usepackage{array}
 \usepackage{ragged2e}
 \def\qmemory{policy-class Q-memory}
@@ -185,28 +186,26 @@ Policy-class Q-memory defines a narrow, testable notion of sufficient memory: hi
 
 \textbf{Statistical reporting.} Episode-level rates use 95\% Wilson intervals when intervals are reported; the tables show mean and standard deviation across training seeds to expose optimization variation. Seed variation is not counted as additional episode samples. Paired model differences use hierarchical bootstrap resampling over training seeds and paired held-out tasks. The 7,500 trajectory identity result is a matched reproducibility audit, not 7,500 independent environments. The frozen \qwen{} comparison is a retention test over a shared generated task family, not a general language-agent claim.
 
-\textbf{Reproducibility and availability.} The project archive contains synthetic-task generators, MiniGrid and language-task logs, model checkpoints, replay-Q audit files, capacity and data sweeps, and statistical summaries. A public release should additionally include environment lockfiles, generated split manifests, exact seeds, checkpoint hashes, and scripts that regenerate every table. Third-party model weights should be referenced through their official distribution mechanism. These details matter because the discrete optimizer is data-sensitive and replay targets can be expensive to reconstruct.
-
-\textbf{Interpretation boundary.} The empirical claim is conditional on the declared reference-policy class, candidate-action coverage, replay-consistent snapshots, and evaluated support. A changed policy may require distinctions discarded by the code. The experiments do not establish automatic discovery from a single sparse terminal reward, universal Markov-state sufficiency, broad superiority to full-history agents, or gains on open-ended benchmarks. The project's open-agent pilots are intentionally excluded.
+\textbf{Reproducibility and availability.} Code and reported artifacts are available at \url{https://github.com/JJayshum/Q-Memory}. The repository contains synthetic-task generators, MiniGrid and language-task results, replay-Q audit files, capacity and data sweeps, and statistical summaries. It does not yet include all environment lockfiles, generated split manifests, or model checkpoints; these are required for a complete archival release. Third-party model weights should be referenced through their official distribution mechanism.
 
 \begin{thebibliography}{10}
-\bibitem{kaelbling1998planning} L. P. Kaelbling, M. L. Littman, and A. R. Cassandra, ``Planning and acting in partially observable stochastic domains,'' \emph{Artificial Intelligence}, vol. 101, pp. 99--134, 1998.
+\bibitem{gelada2019deepmdp} C. Gelada, S. Kumar, J. Buckman, O. Nachum, and M. G. Bellemare, ``DeepMDP: Learning continuous latent space models for representation learning,'' in \emph{Proc. ICML}, vol. 97, pp. 2170--2179, 2019.
+\bibitem{grimm2020value} C. Grimm, A. Barreto, S. Singh, and D. Silver, ``The value equivalence principle for model-based reinforcement learning,'' in \emph{Proc. NeurIPS}, vol. 33, pp. 5541--5552, 2020.
+\bibitem{zhu2025turbo} X. Zhu, P. Tang, H. Liao, and S. Appalaraju, ``Turbocharging web automation: The impact of compressed history states,'' in \emph{Findings of ACL}, pp. 3644--3651, 2025.
+\bibitem{nagle2024limits} A. Nagle, A. Girish, M. Bondaschi, M. Gastpar, A. V. Makkuva, and H. Kim, ``Fundamental limits of prompt compression: A rate-distortion framework for black-box language models,'' in \emph{Proc. NeurIPS}, vol. 37, pp. 94934--94970, 2024.
+\bibitem{kaelbling1998planning} L. P. Kaelbling, M. L. Littman, and A. R. Cassandra, ``Planning and acting in partially observable stochastic domains,'' \emph{Artificial Intelligence}, vol. 101, no. 1--2, pp. 99--134, 1998.
 \bibitem{puterman1994mdp} M. L. Puterman, \emph{Markov Decision Processes: Discrete Stochastic Dynamic Programming}. Wiley, 1994.
-\bibitem{li2006unified} L. Li, T. J. Walsh, and M. L. Littman, ``Towards a unified theory of state abstraction for MDPs,'' in \emph{Proceedings of the Ninth International Symposium on Artificial Intelligence and Mathematics}, 2006.
-\bibitem{ferns2004metrics} N. Ferns, P. Panangaden, and R. Precup, ``Metrics for finite Markov decision processes,'' in \emph{Proceedings of the 20th Conference on Uncertainty in Artificial Intelligence}, 2004.
-\bibitem{abel2016state} D. Abel, D. Hershkowitz, and M. Littman, ``Near optimal behavior via approximate state abstraction,'' in \emph{Proceedings of the 33rd International Conference on Machine Learning}, 2016.
+\bibitem{li2006unified} L. Li, T. J. Walsh, and M. L. Littman, ``Towards a unified theory of state abstraction for MDPs,'' in \emph{Proc. Ninth Int. Symp. Artificial Intelligence and Mathematics}, 2006.
+\bibitem{ferns2004metrics} N. Ferns, P. Panangaden, and R. Precup, ``Metrics for finite Markov decision processes,'' in \emph{Proc. 20th Conf. Uncertainty in Artificial Intelligence}, pp. 162--177, 2004.
+\bibitem{abel2016state} D. Abel, D. Hershkowitz, and M. Littman, ``Near optimal behavior via approximate state abstraction,'' in \emph{Proc. ICML}, vol. 48, pp. 2915--2923, 2016.
 \bibitem{hausknecht2015deep} M. Hausknecht and P. Stone, ``Deep recurrent Q-learning for partially observable MDPs,'' arXiv:1507.06527, 2015.
-\bibitem{kapturowski2019recurrent} S. Kapturowski \emph{et al.}, ``Recurrent experience replay in distributed reinforcement learning,'' in \emph{ICLR}, 2019.
-\bibitem{laskin2020curl} M. Laskin, A. Srinivas, and P. Abbeel, ``CURL: Contrastive unsupervised representations for reinforcement learning,'' in \emph{ICML}, 2020.
-\bibitem{gelada2019deepmdp} C. Gelada, S. Kumar, J. Buckman, O. Nachum, and M. G. Bellemare, ``DeepMDP: Learning continuous latent space models for representation learning,'' in \emph{ICML}, 2019.
-\bibitem{grimm2020value} C. Grimm, A. Barreto, S. Singh, and D. Silver, ``The value equivalence principle for model-based reinforcement learning,'' in \emph{NeurIPS}, 2020.
-\bibitem{wang2025awm} Z. Z. Wang, J. Mao, D. Fried, and G. Neubig, ``Agent workflow memory,'' in \emph{ICML}, 2025.
-\bibitem{xu2025amem} W. Xu \emph{et al.}, ``A-Mem: Agentic memory for LLM agents,'' in \emph{NeurIPS}, 2025.
-\bibitem{ouyang2026reasoningbank} S. Ouyang \emph{et al.}, ``ReasoningBank: Scaling agent self-evolving with reasoning memory,'' in \emph{ICLR}, 2026.
-\bibitem{zhou2026mem1} Z. Zhou \emph{et al.}, ``MEM1: Learning to synergize memory and reasoning for efficient long-horizon agents,'' in \emph{ICLR}, 2026.
-\bibitem{wu2025longmemeval} D. Wu \emph{et al.}, ``LongMemEval: Benchmarking chat assistants on long-term interactive memory,'' in \emph{ICLR}, 2025.
-\bibitem{zhu2025turbo} X. Zhu \emph{et al.}, ``Turbocharging web automation: The impact of compressed history states,'' in \emph{Findings of ACL}, 2025.
-\bibitem{nagle2024limits} A. Nagle \emph{et al.}, ``Fundamental limits of prompt compression: A rate-distortion framework for black-box language models,'' in \emph{NeurIPS}, 2024.
+\bibitem{kapturowski2019recurrent} S. Kapturowski \emph{et al.}, ``Recurrent experience replay in distributed reinforcement learning,'' in \emph{Proc. ICLR}, 2019.
+\bibitem{laskin2020curl} M. Laskin, A. Srinivas, and P. Abbeel, ``CURL: Contrastive unsupervised representations for reinforcement learning,'' in \emph{Proc. ICML}, vol. 119, pp. 5639--5650, 2020.
+\bibitem{wang2025awm} Z. Z. Wang, J. Mao, D. Fried, and G. Neubig, ``Agent workflow memory,'' in \emph{Proc. ICML}, vol. 267, pp. 63897--63911, 2025.
+\bibitem{xu2025amem} W. Xu \emph{et al.}, ``A-Mem: Agentic memory for LLM agents,'' in \emph{Proc. NeurIPS}, vol. 38, pp. 20004--20031, 2025.
+\bibitem{ouyang2026reasoningbank} S. Ouyang \emph{et al.}, ``ReasoningBank: Scaling agent self-evolving with reasoning memory,'' in \emph{Proc. ICLR}, 2026.
+\bibitem{zhou2026mem1} Z. Zhou \emph{et al.}, ``MEM1: Learning to synergize memory and reasoning for efficient long-horizon agents,'' arXiv:2506.15841, 2025.
+\bibitem{wu2025longmemeval} D. Wu \emph{et al.}, ``LongMemEval: Benchmarking chat assistants on long-term interactive memory,'' in \emph{Proc. ICLR}, 2025.
 \bibitem{sutton2018rl} R. S. Sutton and A. G. Barto, \emph{Reinforcement Learning: An Introduction}, 2nd ed. MIT Press, 2018.
 \end{thebibliography}
 \end{document}

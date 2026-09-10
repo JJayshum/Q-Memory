@@ -10,19 +10,21 @@
 
 ## Metadata review
 
-The eight added foundational references were normalized against their canonical titles, author lists, publication venues, and years:
+The reference list was checked against publisher/proceedings metadata, including PMLR, Crossref, arXiv, and official conference records. The following corrections were applied during the final audit:
 
-1. Kaelbling, Littman & Cassandra (1998), *Artificial Intelligence*, ``Planning and acting in partially observable stochastic domains.''
-2. Puterman (1994), Wiley monograph, *Markov Decision Processes: Discrete Stochastic Dynamic Programming*.
-3. Li, Walsh & Littman (2006), ISAIM proceedings, ``Towards a unified theory of state abstraction for MDPs.''
-4. Ferns, Panangaden & Precup (2004), UAI, ``Metrics for finite Markov decision processes.''
-5. Abel, Hershkowitz & Littman (2016), ICML, ``Near-optimal behavior via approximate state abstraction.''
-6. Hausknecht & Stone (2015), arXiv:1507.06527, ``Deep recurrent Q-learning for partially observable MDPs.''
-7. Kapturowski et al. (2019), ICLR, ``Recurrent experience replay in distributed reinforcement learning.''
-8. Laskin, Srinivas & Abbeel (2020), ICML, ``CURL: Contrastive unsupervised representations for reinforcement learning.''
+- DeepMDP: PMLR 97, pages 2170--2179 (the previous 4445--4455 range was incorrect).
+- CURL: PMLR 119, pages 5639--5650 (the previous 563--572 range was incorrect).
+- MEM1: cited conservatively as arXiv:2506.15841 (2025), because the checked metadata did not establish the previously claimed ICLR 2026 venue.
+- Kaelbling et al.: volume 101, issues 1--2, pages 99--134.
+- Ferns et al.: pages 162--177.
+- Abel et al.: PMLR 48, pages 2915--2923.
+- Agent Workflow Memory: PMLR 267, pages 63897--63911.
+- A-Mem: NeurIPS volume 38, pages 20004--20031.
+- Turbocharging Web Automation: Findings of ACL 2025, pages 3644--3651.
+- Fundamental Limits of Prompt Compression: NeurIPS volume 37, pages 94934--94970.
 
-The original contextual references are retained because they are used to position memory/prompt-compression work. Their metadata is internally consistent with the supplied manuscript records, but the following recent entries should be checked against the final publisher or proceedings record before upload: Wang et al. (2025), Xu et al. (2025), Ouyang et al. (2026), Zhou et al. (2026), Wu et al. (2025), and Zhu et al. (2025). No DOI is claimed for these entries, so the manuscript does not contain a DOI-to-wrong-paper mismatch.
+ReasoningBank is listed as ICLR 2026 and LongMemEval as ICLR 2025 based on their accepted-paper records. Books and arXiv-only works are cited without invented proceedings pages. No DOI is printed in the manuscript, so there is no DOI-to-wrong-paper mismatch.
 
-## Submission action
+## Residual responsibility
 
-Before submission, confirm the six recent entries above using the official proceedings/publisher pages or the authors' final BibTeX. If any venue or publication status differs, update only the corresponding `\\bibitem` and recompile; the citation-key audit should remain unchanged.
+The metadata and citation-key checks establish bibliographic consistency, not that every cited work supports every surrounding claim. Both authors must read the cited sources and verify the claim-to-citation relationship under the ICASSP LLM policy before submission.
