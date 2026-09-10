@@ -8,11 +8,11 @@ Provided and incorporated:
 
 - Yujie Shen: `https://orcid.org/0009-0009-0447-9913`.
 - Haowen Chen: `https://orcid.org/0000-0002-4777-7525`.
+- Haowen Chen is the corresponding/contact author; the manuscript marks this and uses `hwchen@hnu.edu.cn`.
 
 Still requiring author confirmation:
 
 - Confirmation of the exact author names, order, affiliations, email addresses, and full postal mailing address for each author.
-- Confirmation that Haowen Chen is the corresponding/contact author. The manuscript currently uses `hwchen@hnu.edu.cn`.
 
 The PDF and submission form must match exactly. ICASSP 2027 states that missing ORCIDs or mismatched author lists cause automatic withdrawal.
 
