@@ -31,11 +31,14 @@ Verified on 10 September 2026 against the official [Call for Papers](https://202
 - Primary topic: **2.2 Reinforcement learning [ML-REI]**
 - Secondary topic: **2.3.7 Representation learning [ML-DLR-REPR]**
 - Corresponding author: **Haowen Chen**, `hwchen@hnu.edu.cn`
+- Yujie Shen ORCID: `https://orcid.org/0009-0009-0447-9913`
+- Haowen Chen ORCID: `https://orcid.org/0000-0002-4777-7525`
+- Funding acknowledgment: included in the manuscript with grant/project identifiers `62472165`, `JYB2025XDXM602`, and `YLS-2026-ZY01002`.
 
 ## Automated checks
 
 - [x] The final build has exactly five pages.
-- [x] Page 5 starts with References and contains no technical continuation.
+- [x] Page 5 contains only the funding acknowledgment and references, with no technical continuation.
 - [x] The PDF is below 5 MB and is not encrypted.
 - [x] Every font is embedded and subset; no Type 3 fonts are present.
 - [x] No page numbers, clipping, overlapping tables, overfull boxes, or undefined citations are present.

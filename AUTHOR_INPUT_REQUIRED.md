@@ -4,10 +4,13 @@ The formatting and packaging work can be completed automatically. The items belo
 
 ## 1. Mandatory author metadata
 
-Please provide:
+Provided and incorporated:
 
-- Yujie Shen's ORCID URL in the form `https://orcid.org/0000-0000-0000-0000`.
-- Haowen Chen's ORCID URL in the same form.
+- Yujie Shen: `https://orcid.org/0009-0009-0447-9913`.
+- Haowen Chen: `https://orcid.org/0000-0002-4777-7525`.
+
+Still requiring author confirmation:
+
 - Confirmation of the exact author names, order, affiliations, email addresses, and full postal mailing address for each author.
 - Confirmation that Haowen Chen is the corresponding/contact author. The manuscript currently uses `hwchen@hnu.edu.cn`.
 
@@ -15,7 +18,7 @@ The PDF and submission form must match exactly. ICASSP 2027 states that missing 
 
 ## 2. Funding and ethics declarations
 
-Please provide either the exact funding acknowledgement required by the sponsors or the statement `No funding acknowledgement is required`.
+The funding acknowledgment has been incorporated for National Natural Science Foundation of China grant 62472165, Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China project JYB2025XDXM602, and Yuelushan Laboratory Breeding Program project YLS-2026-ZY01002.
 
 Please also confirm whether a `Compliance with Ethical Standards` statement is required under the IEEE Signal Processing Society policies. The present experiments appear synthetic and do not describe human or animal subjects, but this is an author/legal determination and cannot be inferred safely.
 

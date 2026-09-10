@@ -11,9 +11,9 @@
 % ICASSP 2027 is not double-blind; list the authors and affiliations in the PDF.
 \twoauthors
   {Yujie Shen}
-  {School of Mathematics\\Hunan University, China\\\texttt{eugeneshen2005@gmail.com}}
+  {School of Mathematics\\Hunan University, China\\\texttt{eugeneshen2005@gmail.com}\\\href{https://orcid.org/0009-0009-0447-9913}{ORCID: 0009-0009-0447-9913}}
   {Haowen Chen\sthanks{Corresponding author: \texttt{hwchen@hnu.edu.cn}.}}
-  {College of Computer Science\\and Electronic Engineering\\Hunan University, China\\\texttt{hwchen@hnu.edu.cn}}
+  {College of Computer Science\\and Electronic Engineering\\Hunan University, China\\\texttt{hwchen@hnu.edu.cn}\\\href{https://orcid.org/0000-0002-4777-7525}{ORCID: 0000-0002-4777-7525}}
 \renewcommand{\arraystretch}{1.08}
 \setlength{\tabcolsep}{3.5pt}
 \newcommand{\tabhead}[1]{\textbf{#1}}
@@ -187,6 +187,9 @@ Policy-class Q-memory defines a narrow, testable notion of sufficient memory: hi
 \textbf{Statistical reporting.} Episode-level rates use 95\% Wilson intervals when intervals are reported; the tables show mean and standard deviation across training seeds to expose optimization variation. Seed variation is not counted as additional episode samples. Paired model differences use hierarchical bootstrap resampling over training seeds and paired held-out tasks. The 7,500 trajectory identity result is a matched reproducibility audit, not 7,500 independent environments. The frozen \qwen{} comparison is a retention test over a shared generated task family, not a general language-agent claim.
 
 \textbf{Reproducibility and availability.} Code and reported artifacts are available at \url{https://github.com/JJayshum/Q-Memory}. The repository contains synthetic-task generators, MiniGrid and language-task results, replay-Q audit files, capacity and data sweeps, and statistical summaries. It does not yet include all environment lockfiles, generated split manifests, or model checkpoints; these are required for a complete archival release. Third-party model weights should be referenced through their official distribution mechanism.
+
+\section{Acknowledgment}
+This work was supported by the National Natural Science Foundation of China (grant no.~62472165), the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (JYB2025XDXM602), and the Yuelushan Laboratory Breeding Program (YLS-2026-ZY01002).
 
 \begin{thebibliography}{10}
 \bibitem{gelada2019deepmdp} C. Gelada, S. Kumar, J. Buckman, O. Nachum, and M. G. Bellemare, ``DeepMDP: Learning continuous latent space models for representation learning,'' in \emph{Proc. ICML}, vol. 97, pp. 2170--2179, 2019.
